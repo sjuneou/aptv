@@ -41,7 +41,7 @@
 ## M1 Mac
 ![](https://img.whalenas.com:283/image/202204261557428.png)
 
-## Testflight地址
-> https://testflight.apple.com/join/UXOTIjpy
+## ⚡️ TestFlight
+<a href='https://testflight.apple.com/join/UXOTIjpy'><img height='70' alt='Join the Beta on TestFlight' src='https://anotherlens.app/testflight-badge.png'/></a>
 
 <img src="https://img.w2solo.com/photo/Kimen/a2f94c29-bcfd-418b-bcd3-738ea07dd1e7.jpeg?imageView2/2/w/1920/q/100" width="500"/>
