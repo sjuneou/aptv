@@ -14,7 +14,7 @@
 ## 接下来的计划
 - iCloud 同步
 - AppleTV 版本
-- Mac 版本  
+- Mac 桌面版本  
   ……
 
 ## 预览图
@@ -37,6 +37,9 @@
 - IPTV：https://img.whalenas.com:283/file/iptv.m3u
 - 虎牙：https://img.whalenas.com:283/file/huya.m3u
 - 爱奇艺：https://img.whalenas.com:283/file/iqiyi.m3u
+
+## M1 Mac
+![](https://img.whalenas.com:283/image/202204261557428.png)
 
 ## Testflight地址
 > https://testflight.apple.com/join/UXOTIjpy
