@@ -34,7 +34,8 @@
 ## 测试源
 > 以下直播源仅用于产品测试使用，禁止传播  
 > 以下直播源均来自于网络，本人只进行收集和整理，不对内容的隐私和版权负责
-- IPTV：https://img.whalenas.com:283/file/iptv.m3u
+- IPTV：https://img.whalenas.com:283/file/iptv.m3u 
+（该测试源每日更新，若出现个别频道无法播放，请在配置中心中刷新配置）
 - 虎牙：https://img.whalenas.com:283/file/huya.m3u
 - 爱奇艺：https://img.whalenas.com:283/file/iqiyi.m3u
 
