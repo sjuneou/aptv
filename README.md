@@ -1,5 +1,8 @@
 # APTV
+## TG交流群
+> [t.me/AptvPlayer](https://t.me/AptvPlayer)
 ## 介绍
+
 一个用于播放 m3u8 文件的工具类App
 
 ## 区别
