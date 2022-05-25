@@ -1,235 +1,241 @@
 #EXTM3U
-#EXTINF:-1 group-title="星秀", 阳宝宝、
-https://bd.flv.huya.com/src/1259523217070-1259523217070-4715012271460319232-2519046557596-10057-A-0-1.flv?wsSecret=3d1b5edfae523038eb1b6b9bc38a2656&wsTime=628fc09e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535017262727490&ratio=4000
-#EXTINF:-1 group-title="星秀", 中凯-潮汕妹子团
-https://hw.flv.huya.com/huyalive/1199603607853-1199603607853-5616667327278874624-2399207339162-10057-A-0-1.flv?wsSecret=c9018c06b863a7df6e1a99e06612aafe&wsTime=628fc09e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017262518190&ratio=2000
-#EXTINF:-1 group-title="穿越火线", AG绝迹
-https://hw.flv.huya.com/src/1531433300-1531433300-6577455939505356800-3062990056-10057-A-0-1.flv?wsSecret=66195fe69bf6d6018dc6b405a094e7ff&wsTime=628fc088&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017267270170&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", 陈冠C【24h专业带粉】
-https://hw.flv.huya.com/huyalive/1199598502122-1199598502122-5594738379611701248-2399197127700-10057-A-0-1.flv?wsSecret=d0254e38d4ce074bf4f369448407546a&wsTime=628fc09e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017263803540&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", 国亮-带你上百星
-https://hw.flv.huya.com/huyalive/1199585974750-1199585974750-5540933726566875136-2399172072956-10057-A-0-1.flv?wsSecret=6751d30873f5838b0b925c82c6b7d07c&wsTime=628fc09e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac8%3B&fs=bgct&t=103&uid=0&seqid=16535017269906980&ratio=4000
-#EXTINF:-1 group-title="户外", 集梦有毛【116】
-https://bd.flv.huya.com/src/1685630720-1685630720-7239728815532933120-3371384896-10057-A-0-1.flv?wsSecret=8379875ff0f1155f1f790f1af7553c36&wsTime=628fc09e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017269315950&ratio=500
-#EXTINF:-1 group-title="王者荣耀", 嘉乐-至尊宝
-https://al.flv.huya.com/src/1438067636-1438067636-6176453466056032256-2876258728-10057-A-0-1.flv?wsSecret=1b31607c40c605e4e4b85fcd5ebf5ccf&wsTime=628fc093&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017274449140&ratio=4000
-#EXTINF:-1 group-title="穿越火线", CF赛事直播间
-https://hw.flv.huya.com/src/78941969-2543231004-10923093988353245184-2693349284-10057-A-0-1-imgplus.flv?wsSecret=dc52c7b0cf32508e06dbb315a41e6571&wsTime=628fc09f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017275168760&ratio=4000
-#EXTINF:-1 group-title="二次元", 不二丸叽
-https://hw.flv.huya.com/src/1199564600907-1199564600907-5449133769892036608-2399129325270-10057-A-0-1.flv?wsSecret=9767017be06ce904fde54b7d10081f8f&wsTime=628fc085&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017275637490&ratio=4000
-#EXTINF:-1 group-title="主机游戏", 狂鸟丶贱圣-90327
-https://hw.flv.huya.com/src/10895178-10895178-46794433194098688-21913812-10057-A-0-1-imgplus.flv?wsSecret=744005277db9c51240491a468f01d633&wsTime=628fc09f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017276757330&ratio=4000
-#EXTINF:-1 group-title="穿越火线", AzZ丶莫雨熙
-https://hw.flv.huya.com/src/1676306798-1676306798-7199682875472478208-3352737052-10057-A-0-1.flv?wsSecret=9a9d07ae93142efc32ee295f056ab29a&wsTime=628fc09f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017277749430&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", 恰遇【上分工作室】
-https://bd.flv.huya.com/huyalive/2350560744-2350560744-10095581522741428224-4701244944-10057-A-0-1.flv?wsSecret=17895246af09e8e7574f15946ea1a40b&wsTime=628fc0a0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017281889760&ratio=2000
-#EXTINF:-1 group-title="王者荣耀", 巅峰-鬼岛
-https://aldirect.flv.huya.com/src/1199534027290-1199534027290-5317821084756606976-2399068178036-10057-A-0-1.flv?wsSecret=29622d7778de6084d0fb29c8e995520b&wsTime=628fc0a0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017283330480&ratio=4000
-#EXTINF:-1 group-title="星秀", 华星-皮皮宝宝【925】
-https://bd.flv.huya.com/src/1636796409-1636796409-7029987046865240064-3273716274-10057-A-0-1.flv?wsSecret=94a5267fdd6e2276703ab5715290df30&wsTime=628fc0a0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017289006220&ratio=2000
-#EXTINF:-1 group-title="王者荣耀", 木头陪打3
-https://hw.flv.huya.com/huyalive/1199579528924-1199579528924-5513249114701168640-2399159181304-10057-A-0-1.flv?wsSecret=ce61b543b908055dc128ae1476c39c87&wsTime=628fc0a0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017286717300&ratio=2000
-#EXTINF:-1 group-title="天天吃鸡", 非凡-保镖
-https://bd.flv.huya.com/src/79299770-79299770-340589918730321920-158722996-10057-A-0-1.flv?wsSecret=cac6d3b591760ed44b245b5a08cac6ad&wsTime=628fc0a1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017292566270&ratio=8000
-#EXTINF:-1 group-title="英雄联盟手游", 迟迟东方
-https://bd.flv.huya.com/src/2468158-2468158-10600657891360768-5059772-10057-A-0-1.flv?wsSecret=00b7e88824869d92a85aa024eb9e2fdf&wsTime=628fc0a0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535017289871280&ratio=4000
-#EXTINF:-1 group-title="英雄联盟", 盛世-叫我久哥哥【GLZ】
-https://al.flv.huya.com/src/5668003-5668003-24343887518629888-11459462-10057-A-0-1-imgplus.flv?wsSecret=31165e40a57f773f5990935655aae6d3&wsTime=628fc0a1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax42%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017294799430&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", 腿毛24H上分工作室
-https://hw.flv.huya.com/huyalive/1199577008774-1199577008774-5502425152870154240-2399154141004-10057-A-0-1.flv?wsSecret=89fe7da5066e27f71841dc46fedcddae&wsTime=628fc086&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017296096110&ratio=2000
-#EXTINF:-1 group-title="趣分享", 口口甜
-https://hw.flv.huya.com/src/1199589096615-1199589096615-5554342034644402176-2399178316686-10057-A-0-1.flv?wsSecret=9bd201f1d645d75b54b3c1c21a957c51&wsTime=628fc0a1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017296713270
-#EXTINF:-1 group-title="原创", 阿斗归来了
-http://yj1211.work:8089/huya/13303478.m3u8
-#EXTINF:-1 group-title="二次元", 傲辰-软软啊
-https://bd.flv.huya.com/src/2360589759-2360589759-10138655814177521664-4721302974-10057-A-0-1.flv?wsSecret=cc26ec9478bd30b9f9d42dfff733ea37&wsTime=628fc0a2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017303319010&ratio=4000
-#EXTINF:-1 group-title="Dread Hunger", 换海c
-https://bd.flv.huya.com/huyalive/1564283826-1564283826-6718547874331754496-3128691108-10057-A-0-1.flv?wsSecret=74c5d71b40c8229b2a7baba605d15171&wsTime=628fc0a1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017301704510&ratio=4000
-#EXTINF:-1 group-title="趣分享", 郭德纲于谦相声24小时
-https://hw.flv.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1.flv?wsSecret=7778656a0d2cee272303d963e287654a&wsTime=628fc085&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017304887090&ratio=500
-#EXTINF:-1 group-title="星秀", 微竞-芜湖神
-https://al.flv.huya.com/src/1016578758-1016578758-4366172519418298368-2033280972-10057-A-0-1-imgplus.flv?wsSecret=29fbcfabf73c98afbed6fddd2fb99664&wsTime=628fc0a2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx92%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017307854980&ratio=4000
-#EXTINF:-1 group-title="一起看", 周星星
-http://yj1211.work:8089/huya/11342412.m3u8
-#EXTINF:-1 group-title="欢乐斗地主", 怂俊-牛马
-https://hw.flv.huya.com/src/2208488351-2208488351-9485385241141968896-4417100158-10057-A-0-1.flv?wsSecret=84341fa7a4d56e4939a89069b88aa12a&wsTime=628fc09a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic3lt1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017309056330&ratio=2000
+#EXTINF:-1 group-title="星秀", 牛马-红牛【凯】
+https://bd.flv.huya.com/huyalive/1760008909-1760008909-7559180704823640064-3520141274-10057-A-0-1.flv?wsSecret=9929d6a3f4f0a630303a82bf754c4ac7&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052294203990
+#EXTINF:-1 group-title="星秀", 赢城周十七【炮】
+https://hw.flv.huya.com/huyalive/1199540706966-1199540706966-5346510074724483072-2399081537388-10057-A-0-1.flv?wsSecret=ce3b3aff10ff8310f2bce63071a81244&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052294150480&ratio=2000
 #EXTINF:-1 group-title="梦三国", 风起-跪斗
-https://al.flv.huya.com/src/99263871-99263871-426335079619362816-198651198-10057-A-0-1.flv?wsSecret=f648c6dfa1791d560a737546ef75e50d&wsTime=628fc0a2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac8%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017309816710&ratio=2000
-#EXTINF:-1 group-title="王者荣耀", 八戒工作室1
-https://bd.flv.huya.com/huyalive/1199608140382-1199608140382-5636134391102046208-2399216404220-10057-A-0-1.flv?wsSecret=eeb5b0f627fcc0964854863955977afe&wsTime=628fc0a3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017311064670&ratio=2000
+https://al.flv.huya.com/src/99263871-99263871-426335079619362816-198651198-10057-A-0-1.flv?wsSecret=ac03ef299d9c384cdfe814de617c2190&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac8%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052294211990&ratio=2000
+#EXTINF:-1 group-title="和平精英", LP-荒神
+https://aldirect.flv.huya.com/src/1181193859-1181193859-5073188994641035264-2362511174-10057-A-0-1.flv?wsSecret=a621b455e041886668faff8cab6596d5&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aj10%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052294239990&ratio=8000
+#EXTINF:-1 group-title="交友", 逸鹿-摇曳的心-面条冠
+https://bd.flv.huya.com/src/9999991199526932830-1199526932830-5287350611073826816-2399053989116-10057-A-0-11653479850.flv?wsSecret=67cc398ebb2af03270b11a09ddd3db57&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&t=103&uid=0&seqid=16535052294252380&ratio=500
+#EXTINF:-1 group-title="王者荣耀", 久爱-西西【达文西】
+https://bd.flv.huya.com/src/2208606321-2208606321-9485891918433878016-4417336098-10057-A-0-1-imgplus.flv?wsSecret=54e95fd360654ccd3beb52f7c4499aa1&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052294219350&ratio=4000
+#EXTINF:-1 group-title="星秀", 织梦-琳哥【尊师老王】
+https://aldirect.flv.huya.com/huyalive/1199512002081-1199512002081-5223223532414042112-2399024127618-10057-A-0-1.flv?wsSecret=1445bfcc4f2915ccfc7cd59c264831a2&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052294289910
+#EXTINF:-1 group-title="星秀", UU醒了么【强徒】
+https://hw.flv.huya.com/src/1199593012997-1199593012997-5571162767253045248-2399186149450-10057-A-0-1.flv?wsSecret=a06145846eb10c6a9ded6ff584711f7f&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535052295230170&ratio=2000
+#EXTINF:-1 group-title="英雄联盟", kRYST4L
+https://hw.flv.huya.com/src/1575250000-1575250000-6765647233024000000-3150623456-10057-A-0-1-imgplus.flv?wsSecret=03cef0ca73b34ef84c3f1d691d7ae9e6&wsTime=628fce31&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic3lt2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052295277820&ratio=4000
+#EXTINF:-1 group-title="交友", DK-少女情愫
+https://bd.flv.huya.com/src/9999991199566742631-1199566742631-5458332404429094912-2399133608718-10057-A-0-11653458360.flv?wsSecret=2b8b9280fde49d468c61e3c5d100ccff&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&t=103&uid=0&seqid=16535052295284470
 #EXTINF:-1 group-title="Dread Hunger", 狂鸟、狄莫-90327
-https://hw.flv.huya.com/src/2253268337-2253268337-9677713816527306752-4506660130-10057-A-0-1.flv?wsSecret=216268918ed5220126f836f2fe4f6adc&wsTime=628fc0a3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017310892810&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", 枫逸【效率带粉】
-https://hw.flv.huya.com/huyalive/1199597265204-1199597265204-5589425857253867520-2399194653864-10057-A-0-1.flv?wsSecret=f7a84d1f50763b6659a668862bf56ad9&wsTime=628fc0a3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017315781700&ratio=2000
-#EXTINF:-1 group-title="天天吃鸡", 涂山-染宝宝
-https://al.flv.huya.com/src/1149655655-1149655655-4937733439886458880-2299434766-10057-A-0-1-imgplus.flv?wsSecret=ebe88c7525b94ec45f050512a253196c&wsTime=628fc09c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017315915780&ratio=4000
-#EXTINF:-1 group-title="英雄联盟", EDG-Scout
-https://al.flv.huya.com/src/2191953597-2191953597-9414369013464563712-4384030650-10057-A-0-1-imgplus.flv?wsSecret=588f84617403ea0d8e35132a631726a4&wsTime=628fc0a4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017321690680&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", 风尘-【效率带粉】
-https://hw.flv.huya.com/src/1199571819997-1199571819997-5480139525348917248-2399143763450-10057-A-0-1.flv?wsSecret=67a67d4e7adfc892bd2f34777487d21a&wsTime=628fc0a4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Az16%3B&fs=bgct&t=103&uid=0&seqid=16535017323352130&ratio=4000
-#EXTINF:-1 group-title="永劫无间", HT-扶风
-https://aldirect.flv.huya.com/src/1606040935-1606040935-6897893291862261760-3212205326-10057-A-0-1.flv?wsSecret=9e4f66bf02fcbcd87ca90ccdb000e460&wsTime=628fc0a4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017323345540&ratio=8000
+https://hw.flv.huya.com/src/2253268337-2253268337-9677713816527306752-4506660130-10057-A-0-1.flv?wsSecret=48515de9ff6b46a384c65fc3f2d9d2ad&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052295302050&ratio=4000
+#EXTINF:-1 group-title="二次元", 乐听丶芊若
+https://aldirect.flv.huya.com/src/1320365459-1320365459-5670926465173028864-2640854374-10057-A-0-1.flv?wsSecret=5874b240480cd0d7c6b8da09e81e3690&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052295498800&ratio=2000
+#EXTINF:-1 group-title="英雄联盟", 宠妻狂魔教练
+https://bd.flv.huya.com/src/994823755-994823755-4272735493008916480-1989770966-10057-A-0-1.flv?wsSecret=98619add67812ba9c0f59880829c9c7b&wsTime=628fce4d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052295529800&ratio=4000
+#EXTINF:-1 group-title="lol云顶之弈", 海豚-轩哥哥
+https://bd.flv.huya.com/src/1259518484041-1259518484041-4694684066694299648-2519037091538-10057-A-0-1.flv?wsSecret=1a37389b24299c93e0699b9c1b9ccdb5&wsTime=628fce4d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awheic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052295821390&ratio=4000
+#EXTINF:-1 group-title="星秀", Ck-奶酪小迪佳
+https://hw.flv.huya.com/huyalive/1199571650375-1199571650375-5479411004406235136-2399143424206-10057-A-0-1.flv?wsSecret=4fc3a82f6184420f7652880d71d9812b&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052295907390&ratio=2000
+#EXTINF:-1 group-title="星秀", 大白啊啊啊啊【炮】
+https://bd.flv.huya.com/huyalive/1712003494-1712003494-7352999017367732224-3424130444-10057-A-0-1.flv?wsSecret=960f29f6344d523ae8a79aec4f811691&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103&uid=0&seqid=16535052295952670&ratio=500
+#EXTINF:-1 group-title="交友", 乐悠-如约而至
+https://bd.flv.huya.com/src/9999991199547092915-1199547092915-5373937516833406976-2399094309286-10057-A-0-11653494718.flv?wsSecret=aa1c79ccd9f3c9b11b6edeef982934eb&wsTime=628fce3b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&t=103&uid=0&seqid=16535052296114550&ratio=500
+#EXTINF:-1 group-title="星秀", AH丶朴允星
+https://bd.flv.huya.com/src/1678077165-1678077165-7207286543839395840-3356277786-10057-A-0-1.flv?wsSecret=5108369aa6291afdb102d7e16d897718&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052296425200&ratio=4000
+#EXTINF:-1 group-title="天天吃鸡", 王炸ovo
+https://hw.flv.huya.com/huyalive/9577687-9577687-41135852436324352-19278830-10057-A-0-1.flv?wsSecret=61bcf5177a2d42c0b7ea76d7ad8f5996&wsTime=628fce4d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic3lt1%3B&fs=bgct&t=103&uid=0&seqid=16535052296472450&ratio=8000
+#EXTINF:-1 group-title="户外", 集梦后池【ZKL】
+https://bd.flv.huya.com/huyalive/1199530991416-1199530991416-5304782105211830272-2399062106288-10057-A-0-1.flv?wsSecret=c6a3c0ab3e90e5529f8eaac24e5957a3&wsTime=628fce3b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052296609170
+#EXTINF:-1 group-title="天天吃鸡", 久帝-告白
+https://al.flv.huya.com/src/880666690-880666690-3782434632226570240-1761456836-10057-A-0-1.flv?wsSecret=67113bd3c4a31966fd89c6264780ea01&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Asjz2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052296736260&ratio=4000
+#EXTINF:-1 group-title="英雄联盟", 余庆伟
+https://hw.flv.huya.com/src/1099531786984-1099531786984-86583139073261568-2199063697424-10057-A-0-1.flv?wsSecret=87d99080e96e5fb196dc209b48fa88c2&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052296609960&ratio=4000
+#EXTINF:-1 group-title="王者荣耀", 非凡-念青【边缘输出】
+https://al.flv.huya.com/src/2331134035-2331134035-10012144442917519360-4662391526-10057-A-0-1-imgplus.flv?wsSecret=7fa0ec31eb5b4e6039d571176406ada4&wsTime=628fce3b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052296917570&ratio=4000
+#EXTINF:-1 group-title="虚拟偶像", 音音好棒4
+https://bd.flv.huya.com/src/1199596960496-1199596960496-5588117146359037952-2399194044448-10057-A-0-1.flv?wsSecret=277408b4c7b3f99463a4c20d714b74bc&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052297036240
+#EXTINF:-1 group-title="交友", 仙女-花前月下
+https://bd.flv.huya.com/src/9999991199565639050-1199565639050-5453592560125607936-2399131401556-10057-A-0-11653447333.flv?wsSecret=56ce0d5a37b1013e861915b3673de4a6&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awheic1%3B&fs=bgct&t=103&uid=0&seqid=16535052297157710&ratio=500
+#EXTINF:-1 group-title="英雄联盟", 皇族-星痕OB
+https://hw.flv.huya.com/src/77729063-77729063-333843783533723648-155581582-10057-A-0-1-imgplus.flv?wsSecret=5b660f5b273b75805bcedd5439bf1e6c&wsTime=628fce4d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1dx%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052297331940&ratio=4000
+#EXTINF:-1 group-title="王者荣耀", 腿毛24H上分工作室
+https://hw.flv.huya.com/huyalive/1199577008774-1199577008774-5502425152870154240-2399154141004-10057-A-0-1.flv?wsSecret=44a427be3598d18607e0e8f51f7e52b0&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052297399950&ratio=2000
 #EXTINF:-1 group-title="原创", 陈翔六点半
 http://yj1211.work:8089/huya/11274154.m3u8
-#EXTINF:-1 group-title="和平精英", LP-一晨【狙神】
-https://bd.flv.huya.com/src/1199517266693-1199517266693-5245834868780171264-2399034656842-10057-A-0-1.flv?wsSecret=cc86f5ff80bc5bcd39b468adf7426c91&wsTime=628fc0a4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017324929650&ratio=4000
-#EXTINF:-1 group-title="二次元", 梦菲【感恩相遇】
-https://aldirect.flv.huya.com/huyalive/2332555792-2332555792-10018250842735378432-4665235040-10057-A-0-1.flv?wsSecret=677602a67772fbf8a3e068c8a63c299e&wsTime=628fc0a4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017328675520
-#EXTINF:-1 group-title="王者荣耀", 星镜-那郑
-https://bd.flv.huya.com/huyalive/1857293601-1857293601-7977015275365072896-3714710658-10057-A-0-1.flv?wsSecret=2d95d01423c25f34f66fd67214c9d770&wsTime=628fc0a4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103&uid=0&seqid=16535017330334210&ratio=2000
-#EXTINF:-1 group-title="原神", Tentacle【喂饭触】
-https://hw.flv.huya.com/huyalive/1199554870717-1199554870717-5407342922058170368-2399109864890-10057-A-0-1.flv?wsSecret=6eca2576f7e48aa4abdf6d1ced22f32b&wsTime=628fc0a5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017331562460&ratio=4000
-#EXTINF:-1 group-title="lol云顶之弈", 圣逸-阿晚
-https://bd.flv.huya.com/src/1199553700846-1199553700846-5402318364372631552-2399107525148-10057-A-0-1.flv?wsSecret=16702f5ebb49725bcb8ca5f2a365b236&wsTime=628fc0a5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic11%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017334889900&ratio=2000
-#EXTINF:-1 group-title="户外", 集梦晚晚【晚安】
-https://bd.flv.huya.com/src/1199561144301-1199561144301-5434287760166879232-2399122412058-10057-A-0-1.flv?wsSecret=0d772aed31978ea54329f77dd1ec4383&wsTime=628fc0a5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017336518370&ratio=500
-#EXTINF:-1 group-title="王者荣耀", 初心【盼天归】
-https://aldirect.flv.huya.com/huyalive/1199580008764-1199580008764-5515310011808481280-2399160140984-10057-A-0-1.flv?wsSecret=72df2c9b41eb7dc52304256427d1b711&wsTime=628fc0a5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017339610490&ratio=4000
-#EXTINF:-1 group-title="体育", 虎牙斯诺克
-https://hw.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.flv?wsSecret=1c2dfa5c98168eca60850b0c99b67efe&wsTime=628fc0a6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017343989390&ratio=4000
-#EXTINF:-1 group-title="金铲铲之战", MT丶季多鱼
-https://bd.flv.huya.com/src/1199521400132-1199521400132-5263587854105182208-2399042923720-10057-A-0-1.flv?wsSecret=d2af46bf978ffad3eabc9bca16557377&wsTime=628fc0a6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017341341990&ratio=4000
-#EXTINF:-1 group-title="球球大作战", 杀马特志杰【大哥拉菲】
-https://bd.flv.huya.com/src/1279523773448-1279523773448-16829771521936326656-2559047670352-10057-A-0-1.flv?wsSecret=e5446401e1045d9dedf652d0486243e0&wsTime=628fc0a6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahf3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535017345664350&ratio=4000
-#EXTINF:-1 group-title="QQ飞车", Hz丶少年颜值主播
-https://hw.flv.huya.com/huyalive/1823907193-1823907193-7833621744874160128-3647937842-10057-A-0-1.flv?wsSecret=9879ed18ecb6cf7d56f26b607f1446f1&wsTime=628fc0a6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017347244200&ratio=4000
-#EXTINF:-1 group-title="天天吃鸡", 久帝-告白
-https://al.flv.huya.com/src/880666690-880666690-3782434632226570240-1761456836-10057-A-0-1.flv?wsSecret=545bbbab882581e648c4b1d9743ed5e0&wsTime=628fc0a6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Asjz2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017350082890&ratio=4000
-#EXTINF:-1 group-title="英雄联盟", 带篮子
-https://bd.flv.huya.com/src/1199538205888-1199538205888-5335768026509737984-2399076535232-10057-A-0-1.flv?wsSecret=0f8f3769f00e63c791d308b6918b679c&wsTime=628fc0a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017355423370&ratio=500
-#EXTINF:-1 group-title="英雄联盟手游", 房爆
-https://bd.flv.huya.com/huyalive/1199574761470-1199574761470-5492773055685984256-2399149646396-10057-A-0-1.flv?wsSecret=83b67e83f0c6ab8851b10ebea454d5f5&wsTime=628fc0a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017353077160&ratio=4000
-#EXTINF:-1 group-title="星秀", 周童潼丶
-https://bd.flv.huya.com/src/1781640162-1781640162-7652086229030141952-3563403780-10057-A-0-1.flv?wsSecret=4de7fa11043be1c55f407d6d06a7bce6&wsTime=628fc0a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017357656790&ratio=2000
+#EXTINF:-1 group-title="星秀", 星火-沈曼
+https://hw.flv.huya.com/src/1199556712653-1199556712653-5415253976939495424-2399113548762-10057-A-0-1.flv?wsSecret=2c4b6284fdc73dbfc42f9f36b140d6d9&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,&t=103&uid=0&seqid=16535052297468300&ratio=500
 #EXTINF:-1 group-title="一起看", 鯎爺
 http://yj1211.work:8089/huya/11352944.m3u8
-#EXTINF:-1 group-title="王者荣耀", AzZ丶赵77
-https://bd.flv.huya.com/src/10627887-10627887-45646427090583552-21379230-10057-A-0-1.flv?wsSecret=ed5909c1d36847ed681dce425da8beee&wsTime=628fc0a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017359077530&ratio=4000
+#EXTINF:-1 group-title="户外", 高冷男神钱小佳
+https://hw.flv.huya.com/src/1199585096447-1199585096447-5537161443905896448-2399170316350-10057-A-0-1.flv?wsSecret=3b6b17d834f08cc6ceb4e8ea57f1b58f&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052297516620&ratio=500
+#EXTINF:-1 group-title="和平精英", AzZ丶尤婉【洲】
+https://bd.flv.huya.com/src/572132736-572132736-2457291390091001856-1144388928-10057-A-0-1.flv?wsSecret=a523e37e51cfeaf3ec24b1d38998c77a&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052297627470&ratio=4000
+#EXTINF:-1 group-title="星秀", 正恒YJ-尚宝【期待】
+https://bd.flv.huya.com/huyalive/1750002671-1750002671-7516204239857647616-3500128798-10057-A-0-1.flv?wsSecret=1e0c4e543191de0bb46770eb03615b81&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052297754780&ratio=4000
+#EXTINF:-1 group-title="二次元", 视觉丶是朵喵呀
+https://bd.flv.huya.com/huyalive/2354281332-2354281332-10111561326523318272-4708686120-10057-A-0-1.flv?wsSecret=2c3e5c04cec35fb9725e2fa97f341295&wsTime=628fce3b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052297876370
+#EXTINF:-1 group-title="地下城与勇士", 海因因因
+https://aldirect.flv.huya.com/huyalive/1199568267333-1199568267333-5464880949655240704-2399136658122-10057-A-0-1.flv?wsSecret=7fbdcb8e59f9553316a98c33c0c976d4&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052298094320&ratio=2000
+#EXTINF:-1 group-title="王者荣耀", 空伐Void
+https://al.flv.huya.com/src/308484379-308484379-1324930319131869184-617092214-10057-A-0-1-imgplus.flv?wsSecret=fd6b7cea7925bd5e171a57ac23b96f27&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052297850420&ratio=4000
+#EXTINF:-1 group-title="英雄联盟", 英雄联盟赛事
+https://hw.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=2e862a1a02dd45abd183b9d0ab89e7c1&wsTime=628fce39&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052298118760&ratio=4000
+#EXTINF:-1 group-title="趣分享", 郭德纲于谦相声24小时
+https://hw.flv.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1.flv?wsSecret=35923a25b0318656279ff0875b08e9ab&wsTime=628fce3b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An111%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052297880280&ratio=500
+#EXTINF:-1 group-title="音乐", 悦尚-青子
+https://hw.flv.huya.com/huyalive/1199603717898-1199603717898-5617139966954962944-2399207559252-10057-A-0-1.flv?wsSecret=63b85eb1901bc6cf5ae986415e5ef3b2&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052298347660
+#EXTINF:-1 group-title="体育", 虎牙斯诺克副舞台
+https://bd.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.flv?wsSecret=457cfa49df6163b1fb97f5b5627a7c6a&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052298466760&ratio=2000
+#EXTINF:-1 group-title="交友", 盛世-仙女湖-池御最御
+https://bd.flv.huya.com/src/999999600834796-600834796-2580565799118831616-1201793048-10057-A-0-11653494781.flv?wsSecret=5c4887d852284936bf3f8d6fcfd5c94f&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic11%3B&fs=bgct&t=103&uid=0&seqid=16535052298130420&ratio=500
+#EXTINF:-1 group-title="永劫无间", HT-扶风
+https://aldirect.flv.huya.com/src/1606040935-1606040935-6897893291862261760-3212205326-10057-A-0-1.flv?wsSecret=db2567eaf4d08ef3fa937376aa8dfae1&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052298542620&ratio=8000
+#EXTINF:-1 group-title="英雄联盟", AF-楠神李青
+https://al.flv.huya.com/src/1199528969934-1199528969934-5296099906132377600-2399058063324-10057-A-0-1.flv?wsSecret=3db17290a8db190ecc07377f14980712&wsTime=628fce35&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahf3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052298553340&ratio=2000
+#EXTINF:-1 group-title="星秀", 粥粥有点迷【炮】
+https://hw.flv.huya.com/huyalive/1199578543799-1199578543799-5509018035043696640-2399157211054-10057-A-0-1.flv?wsSecret=f8375571dad4b914125d39c81998644b&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052298145620&ratio=2000
+#EXTINF:-1 group-title="和平精英", DK-阿顺
+https://aldirect.flv.huya.com/src/1639798221-1639798221-7042879731233980416-3279719898-10057-A-0-1.flv?wsSecret=25cfabb9c9fb05d419d1b12ecd603137&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052298731740&ratio=8000
+#EXTINF:-1 group-title="英雄联盟", 带篮子
+https://bd.flv.huya.com/src/1199538205888-1199538205888-5335768026509737984-2399076535232-10057-A-0-1.flv?wsSecret=f62fd9445593777db8db063bf1273a70&wsTime=628fce39&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052298787970&ratio=500
+#EXTINF:-1 group-title="二次元", 诗瑶Baby
+https://aldirect.flv.huya.com/src/1605768071-1605768071-6896721349906006016-3211659598-10057-A-0-1.flv?wsSecret=a8d4b08e05e979f5f02b247cb0198651&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052299001660&ratio=4000
+#EXTINF:-1 group-title="趣分享", 助眠先生
+https://bd.flv.huya.com/src/2322348860-2322348860-9974412403602882560-4644821176-10057-A-0-1.flv?wsSecret=73bbc837c920e5244e46a17b4cc742ae&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_2000,&t=103&uid=0&seqid=16535052298995100
+#EXTINF:-1 group-title="英雄联盟手游", 房爆
+https://bd.flv.huya.com/huyalive/1199574761470-1199574761470-5492773055685984256-2399149646396-10057-A-0-1.flv?wsSecret=84e34e3320ad95761d1c50e038bfe9a3&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052299034550&ratio=4000
+#EXTINF:-1 group-title="QQ飞车", Hz丶少年颜值主播
+https://hw.flv.huya.com/huyalive/1823907193-1823907193-7833621744874160128-3647937842-10057-A-0-1.flv?wsSecret=3d86cb06e3cab313cb6292c2a5f29120&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052299118960&ratio=4000
+#EXTINF:-1 group-title="二次元", 正恒RM丶多痣
+https://bd.flv.huya.com/src/1199534408648-1199534408648-5319459004894674944-2399068940752-10057-A-0-1.flv?wsSecret=9ddf7bcf63e32898420cb94a0ff1c68f&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052299188330&ratio=500
+#EXTINF:-1 group-title="星秀", 小爱爱好困
+https://aldirect.flv.huya.com/huyalive/1863069120-1863069120-8001820940587499520-3726261696-10057-A-0-1.flv?wsSecret=ffecd3d442b7dbacd26193e5816dc6d4&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052299083390
+#EXTINF:-1 group-title="王者荣耀", 悟空24小时带粉2
+https://hw.flv.huya.com/huyalive/1259518033695-1259518033695-4692749845352415232-2519036190846-10057-A-0-1.flv?wsSecret=b130ce5448d11384f7c58cae6cb2700f&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aw1%3B&fs=bgct&t=103&uid=0&seqid=16535052299388550&ratio=2000
+#EXTINF:-1 group-title="王者荣耀", 赢城-风度【李白教学】
+https://al.flv.huya.com/src/1813883561-1813883561-7790570573247021056-3627890578-10057-A-0-1.flv?wsSecret=3bcbdcf64f7e5c3107c18532247764f1&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052299457340&ratio=4000
+#EXTINF:-1 group-title="英魂之刃", YX丶安静
+https://bd.flv.huya.com/src/2246518253-2246518253-9648722426502053888-4493159962-10057-A-0-1.flv?wsSecret=8ccf57d884bab4cf95ae0616fb649ee4&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535052299574660&ratio=4000
+#EXTINF:-1 group-title="王者模拟战", 久爱-瓜皮【三指镜】
+https://hw.flv.huya.com/huyalive/2178455320-2178455320-9356394355197214720-4357034096-10057-A-0-1.flv?wsSecret=668bde23d1db29ac558882628b177f7b&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aj9%3B&fs=bgct&t=103&uid=0&seqid=16535052299610720&ratio=4000
+#EXTINF:-1 group-title="穿越火线", CF赛事直播间
+https://hw.flv.huya.com/src/78941969-2543231004-10923093988353245184-2693349284-10057-A-0-1-imgplus.flv?wsSecret=64d433e46be37891a0b34936ad24bd35&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052299657900&ratio=4000
+#EXTINF:-1 group-title="交友", ST-虎牙食堂
+https://bd.flv.huya.com/src/9999991299294771-1299294771-5580428549308809216-2598712998-10057-A-0-11653396279.flv?wsSecret=4185d3b89c463703c05e866039c85807&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax41%3B&fs=bgct&t=103&uid=0&seqid=16535052299677070
+#EXTINF:-1 group-title="王者荣耀", Yx9丶呆呆【火影】
+https://bd.flv.huya.com/src/1591942650-1591942650-6837341618857574400-3184008756-10057-A-0-1.flv?wsSecret=3e00fb0e06ad59cfaf53c4c2d0351d03&wsTime=628fce40&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awheic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052299768300&ratio=4000
+#EXTINF:-1 group-title="星秀", 书香、悠悠
+https://bd.flv.huya.com/src/1199607994469-1199607994469-5635507699538984960-2399216112394-10057-A-0-1.flv?wsSecret=55a2adc7de9f321b9aff1979a42cb816&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052299845410&ratio=2000
+#EXTINF:-1 group-title="英雄联盟手游", 迟迟东方
+https://bd.flv.huya.com/src/2468158-2468158-10600657891360768-5059772-10057-A-0-1.flv?wsSecret=3121ddaee375a01d20437025c9e179f9&wsTime=628fce3a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,&t=103&uid=0&seqid=16535052300104220&ratio=4000
+#EXTINF:-1 group-title="主机游戏", 狂鸟丶贱圣-90327
+https://hw.flv.huya.com/src/10895178-10895178-46794433194098688-21913812-10057-A-0-1-imgplus.flv?wsSecret=36b4fc324aec3a9c05b6685bedc47820&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052300129310&ratio=4000
+#EXTINF:-1 group-title="体育", 虎牙斯诺克
+https://hw.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.flv?wsSecret=85746abebc9e5b22784cb0441ee5f380&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052300184000&ratio=4000
 #EXTINF:-1 group-title="天天吃鸡", 久帝-雨墨吖
-https://hw.flv.huya.com/huyalive/1108793023-1108793023-4762229771817975808-2217709502-10057-A-0-1.flv?wsSecret=4aedeb2deef29b03229807d5e65b5f5d&wsTime=628fc0a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017359597860&ratio=4000
+https://hw.flv.huya.com/huyalive/1108793023-1108793023-4762229771817975808-2217709502-10057-A-0-1.flv?wsSecret=d7cd761428fb23ca99637f9aa4f85260&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052300171130&ratio=4000
+#EXTINF:-1 group-title="交友", 星光-私情蜜语
+https://bd.flv.huya.com/src/9999991259521463453-1259521463453-4707480543795609600-2519043050362-10057-A-0-11653479800.flv?wsSecret=1231f0ea872f220fa27cdf3917eb85aa&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax41%3B&fs=bgct&t=103&uid=0&seqid=16535052300289320
+#EXTINF:-1 group-title="剑灵", 七彩丷90058
+https://bd.flv.huya.com/huyalive/109398699-109398699-469863834429947904-218920854-10057-A-0-1.flv?wsSecret=8f7c77649b4e4fd238107a44dce87d7a&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103&uid=0&seqid=16535052300331540&ratio=8000
+#EXTINF:-1 group-title="二次元", 不二丸叽
+https://hw.flv.huya.com/src/1199564600907-1199564600907-5449133769892036608-2399129325270-10057-A-0-1.flv?wsSecret=76aaaa0840b26e6b8cc3dd8af44f95f0&wsTime=628fce40&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052300347470&ratio=4000
+#EXTINF:-1 group-title="王者模拟战", Dae-草莓
+https://bd.flv.huya.com/src/1343892671-1343892671-5771975071279087616-2687908798-10057-A-0-1-imgplus.flv?wsSecret=28f68759619cd2cc068ea4d2192329e8&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052300428780&ratio=4000
+#EXTINF:-1 group-title="户外", 话社-刀疤龟
+https://bd.flv.huya.com/src/66708744-66708744-286511873837236224-133540944-10057-A-0-1.flv?wsSecret=79e695a3c191b0388c23689faa66922f&wsTime=628fce3b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052300586090
+#EXTINF:-1 group-title="星秀", 嘉映-小9【路妹】
+https://hw.flv.huya.com/huyalive/1199526820967-1199526820967-5286870163147194368-2399053765390-10057-A-0-1.flv?wsSecret=8e9939243abd94b1395a0a1c2ef9fbed&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052300791170&ratio=4000
+#EXTINF:-1 group-title="交友", 星雪-佳期如梦
+https://bd.flv.huya.com/src/9999991199574243911-1199574243911-5490550156707233792-2399148611278-10057-A-0-11653494579.flv?wsSecret=081ce2206ea4850b4f10935cc4327d01&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&t=103&uid=0&seqid=16535052300863190
+#EXTINF:-1 group-title="CFHD", 国宝
+https://aldirect.flv.huya.com/huyalive/502980484-502980484-2160284729306251264-1006084424-10057-A-0-1.flv?wsSecret=bdde38984a27d17155f046ea4cae4773&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052300984520&ratio=4000
+#EXTINF:-1 group-title="二次元", 清清很温柔丶
+https://bd.flv.huya.com/src/1199606773739-1199606773739-5630264704111738880-2399213670934-10057-A-0-1.flv?wsSecret=64ea778100e55f8d94c76f620f797778&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052301000190&ratio=2000
+#EXTINF:-1 group-title="lol云顶之弈", SRG丶余温
+https://bd.flv.huya.com/src/5652934-5652934-24279166656446464-11429324-10057-A-0-1-imgplus.flv?wsSecret=74e0a9c3d68a7d59ad0bb892232fe6c4&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic32%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052300994840&ratio=4000
+#EXTINF:-1 group-title="天天吃鸡", 非凡-保镖
+https://bd.flv.huya.com/src/79299770-79299770-340589918730321920-158722996-10057-A-0-1.flv?wsSecret=8c13735eaf3d40b655a44624e0adcbc3&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052300988130&ratio=8000
+#EXTINF:-1 group-title="星秀", 桃子【小吨吨】柒
+https://hw.flv.huya.com/huyalive/1199556057444-1199556057444-5412439875712450560-2399112238344-10057-A-0-1.flv?wsSecret=b97c52b4a544413716a8632bdd762fa3&wsTime=628fce3b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052301041630&ratio=4000
+#EXTINF:-1 group-title="星秀", 呆呆珑【强徒】
+https://bd.flv.huya.com/src/2280841760-2280841760-9796140766551080960-4561806976-10057-A-0-1.flv?wsSecret=1354786f7aad07d9f8289103590e4b5a&wsTime=628fce40&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535052301391580&ratio=4000
+#EXTINF:-1 group-title="王者荣耀", 陈冠C【24h专业带粉】
+https://hw.flv.huya.com/huyalive/1199598502122-1199598502122-5594738379611701248-2399197127700-10057-A-0-1.flv?wsSecret=c77bbb7ab7d11679d717279cc2cb77af&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052301452310&ratio=4000
+#EXTINF:-1 group-title="户外", 集梦晚晚【晚安】
+https://bd.flv.huya.com/src/1199561144301-1199561144301-5434287760166879232-2399122412058-10057-A-0-1.flv?wsSecret=097aa1b1d1f9a8b6ff9976cd0abacaf1&wsTime=628fce4e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052301434060&ratio=500
+#EXTINF:-1 group-title="王者荣耀", 曜百万24h带粉
+https://bd.flv.huya.com/huyalive/1199607018125-1199607018125-5631314333989339136-2399214159706-10057-A-0-1.flv?wsSecret=32a296f246a66a66899ef2cbfec5ce7f&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052301509440&ratio=2000
+#EXTINF:-1 group-title="天天吃鸡", 涂山-染宝宝
+https://al.flv.huya.com/src/1149655655-1149655655-4937733439886458880-2299434766-10057-A-0-1-imgplus.flv?wsSecret=8fd075c3ea80e6b9dc349aab4ab2a95e&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052301517530&ratio=4000
+#EXTINF:-1 group-title="户外", 集梦十四【洗面奶】
+https://bd.flv.huya.com/src/1704597744-1704597744-7321191563315380224-3409318944-10057-A-0-1.flv?wsSecret=aa9fe7245f80cf1778d6b16f1e485ff1&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052301605400
+#EXTINF:-1 group-title="交友", 星晴-美人
+https://bd.flv.huya.com/src/9999991199542090778-1199542090778-5352453502008295424-2399084305012-10057-A-0-11653197589.flv?wsSecret=04a77d3a906fa43799baefca8ce76d30&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An4%3B&fs=bgct&t=103&uid=0&seqid=16535052301527780
+#EXTINF:-1 group-title="和平精英", LP-一晨【狙神】
+https://bd.flv.huya.com/src/1199517266693-1199517266693-5245834868780171264-2399034656842-10057-A-0-1.flv?wsSecret=9f9b37ac85fd5de0b313ba91cc61251d&wsTime=628fce34&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052301962890&ratio=4000
+#EXTINF:-1 group-title="Dread Hunger", 狂鸟丶董小飒-90327
+https://al.flv.huya.com/src/500066171-500066171-2147767850280943616-1000255798-10057-A-0-1-imgplus.flv?wsSecret=0e06e783e620dab3c77725549a73d90e&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052301535610&ratio=4000
+#EXTINF:-1 group-title="王者荣耀", 国亮-带你上百星
+https://hw.flv.huya.com/huyalive/1199585974750-1199585974750-5540933726566875136-2399172072956-10057-A-0-1.flv?wsSecret=0c553cb5ce50f3ece2868ef6258f0d7d&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac8%3B&fs=bgct&t=103&uid=0&seqid=16535052301951720&ratio=4000
+#EXTINF:-1 group-title="欢乐斗地主", 怂俊-牛马
+https://hw.flv.huya.com/src/2208488351-2208488351-9485385241141968896-4417100158-10057-A-0-1.flv?wsSecret=32d94b7ebe79a0b5483eb01344fed283&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic3lt1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052302004320&ratio=2000
+#EXTINF:-1 group-title="一起看", 野原新之助-
+http://yj1211.work:8089/huya/11352970.m3u8
+#EXTINF:-1 group-title="趣分享", 口口甜
+https://hw.flv.huya.com/src/1199589096615-1199589096615-5554342034644402176-2399178316686-10057-A-0-1.flv?wsSecret=8ca08a21f80e20524179c980b307ddbe&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052302162610
+#EXTINF:-1 group-title="星秀", 周童潼丶
+https://bd.flv.huya.com/src/1781640162-1781640162-7652086229030141952-3563403780-10057-A-0-1.flv?wsSecret=f740d95a9ad731d207d294d4c95efa9e&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052302059640&ratio=2000
+#EXTINF:-1 group-title="王者荣耀", 乐清人丶河马
+https://bd.flv.huya.com/src/170903641-170903641-734025548862324736-341930738-10057-A-0-1-imgplus.flv?wsSecret=94ddcbceba3077984bcf993549b1af58&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052302429920&ratio=4000
+#EXTINF:-1 group-title="王者荣耀", 恰遇【上分工作室】
+https://bd.flv.huya.com/huyalive/2350560744-2350560744-10095581522741428224-4701244944-10057-A-0-1.flv?wsSecret=160d73b741934b3185d98ec50dec7a5e&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052302421260&ratio=2000
+#EXTINF:-1 group-title="王者荣耀", LING-张老三
+https://hw.flv.huya.com/src/1356299405-1356299405-5825261588059258880-2712722266-10057-A-0-1-imgplus.flv?wsSecret=0eb69d8cef9640bd5a67144552591e8e&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052302550840&ratio=4000
+#EXTINF:-1 group-title="英雄联盟手游", 与木、
+https://bd.flv.huya.com/huyalive/1564987028-1564987028-6721568103924236288-3130097512-10057-A-0-1.flv?wsSecret=24dcacb2eb629fc1f57fa5b29f34e555&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx92%3B&fs=bgct&t=103&uid=0&seqid=16535052302622150&ratio=4000
+#EXTINF:-1 group-title="交友", 仙女-爱刷不刷
+https://bd.flv.huya.com/src/999999474921909-474921909-2039774067308888064-949967274-10057-A-0-11653496760.flv?wsSecret=2a715f5acdf94d3d1bc5930b260921f1&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&uid=0&seqid=16535052302558640
+#EXTINF:-1 group-title="球球大作战", 杀马特志杰【大哥拉菲】
+https://bd.flv.huya.com/src/1279523773448-1279523773448-16829771521936326656-2559047670352-10057-A-0-1.flv?wsSecret=088af92958e32b613dbf87e5f2ddf64b&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahf3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535052302717590&ratio=4000
+#EXTINF:-1 group-title="王者荣耀", 嘉乐-至尊宝
+https://al.flv.huya.com/src/1438067636-1438067636-6176453466056032256-2876258728-10057-A-0-1.flv?wsSecret=6991350dbe50952bb0bba3d11ff3d6e0&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052302972770&ratio=4000
+#EXTINF:-1 group-title="王者荣耀", 木头陪打3
+https://hw.flv.huya.com/huyalive/1199579528924-1199579528924-5513249114701168640-2399159181304-10057-A-0-1.flv?wsSecret=eea924262910c009d2a644b62c9f9eb0&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052302971210&ratio=2000
+#EXTINF:-1 group-title="二次元", 泠欢儿
+https://hw.flv.huya.com/src/1199518676164-1199518676164-5251888500629831680-2399037475784-10057-A-0-1.flv?wsSecret=83f95f3695723cc0cc0320dad12b88c9&wsTime=628fce3c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052302985050&ratio=4000
+#EXTINF:-1 group-title="lol云顶之弈", 慎独
+https://hw.flv.huya.com/src/1279515529757-1279515529757-16794365138692997120-2559031182970-10057-A-0-1.flv?wsSecret=4b560d8c3d5b105aa19296f91c3d15a4&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052302936650&ratio=4000
+#EXTINF:-1 group-title="炉石传说", 天霸-蛇哥Colin
+https://hw.flv.huya.com/src/1629021815-1629021815-6996595419895562240-3258167086-10057-A-0-1-imgplus.flv?wsSecret=7dc03b1a347a9d183e563dc4753f7fea&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052303148020&ratio=4000
+#EXTINF:-1 group-title="原创", 阿斗归来了
+http://yj1211.work:8089/huya/13303478.m3u8
+#EXTINF:-1 group-title="交友", 余温-有我真甜
+https://bd.flv.huya.com/src/9999991199545291513-1199545291513-5366200554156457984-2399090706482-10057-A-0-11653482730.flv?wsSecret=bce183317c5e7268b5bf27e9f3e13784&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Az16%3B&fs=bgct&t=103&uid=0&seqid=16535052303430770&ratio=500
+#EXTINF:-1 group-title="王者荣耀", AzZ丶赵77
+https://bd.flv.huya.com/src/10627887-10627887-45646427090583552-21379230-10057-A-0-1.flv?wsSecret=331c0fc945cffc7cacc26377254f8362&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052303568310&ratio=4000
 #EXTINF:-1 group-title="一起看", 武林萌主唐小姐
 http://yj1211.work:8089/huya/11336726.m3u8
-#EXTINF:-1 group-title="王者荣耀", LING-张老三
-https://hw.flv.huya.com/src/1356299405-1356299405-5825261588059258880-2712722266-10057-A-0-1-imgplus.flv?wsSecret=20a9c2df032c14c813d89676d94b4491&wsTime=628fc09f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017364948390&ratio=4000
-#EXTINF:-1 group-title="炉石传说", 天霸-蛇哥Colin
-https://hw.flv.huya.com/src/1629021815-1629021815-6996595419895562240-3258167086-10057-A-0-1-imgplus.flv?wsSecret=b4628b779218a06514daf885f4df3087&wsTime=628fc0a8&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017365894440&ratio=4000
-#EXTINF:-1 group-title="英雄联盟", 余庆伟
-https://hw.flv.huya.com/src/1099531786984-1099531786984-86583139073261568-2199063697424-10057-A-0-1.flv?wsSecret=0b72fd3937e606f9faa5a9ca2f7f5e95&wsTime=628fc0a8&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017364948170&ratio=4000
-#EXTINF:-1 group-title="Dread Hunger", 狂鸟丶董小飒-90327
-https://al.flv.huya.com/src/500066171-500066171-2147767850280943616-1000255798-10057-A-0-1-imgplus.flv?wsSecret=bb6718169c0fcc040c0c61a4b0805d91&wsTime=628fc098&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017366909480&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", 许仙【座山雕】
-https://bd.flv.huya.com/src/1784500555-1784500555-7664371523418849280-3569124566-10057-A-0-1-imgplus.flv?wsSecret=a8332efa70002cdb5ee6f429a0ee7047&wsTime=628fc0a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017372308050&ratio=4000
-#EXTINF:-1 group-title="lol云顶之弈", SRG丶余温
-https://bd.flv.huya.com/src/5652934-5652934-24279166656446464-11429324-10057-A-0-1-imgplus.flv?wsSecret=896434b32c709f97df130b5252b38649&wsTime=628fc0a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic32%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017374241370&ratio=4000
-#EXTINF:-1 group-title="剑灵", 七彩丷90058
-https://bd.flv.huya.com/src/109398699-109398699-469863834429947904-218920854-10057-A-0-1.flv?wsSecret=8279d620d947bfdbbdad5d798f144c92&wsTime=628fc0a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&t=103&uid=0&seqid=16535017371169040&ratio=8000
 #EXTINF:-1 group-title="星秀", 阿稀稀大魔王、
-https://hw.flv.huya.com/src/1152629002-1152629002-4950503868011118592-2305381460-10057-A-0-1.flv?wsSecret=0008fc2d377d0930f4b441c20e1b4395&wsTime=628fc0a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017376142800&ratio=4000
-#EXTINF:-1 group-title="星秀", 九龍-艾琳【豫】
-https://aldirect.flv.huya.com/src/1733716335-1733716335-7446254959365980160-3467556126-10057-A-0-1.flv?wsSecret=51dadce9af056c683be1043a40403b63&wsTime=628fc0a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017377297080&ratio=2000
-#EXTINF:-1 group-title="王者荣耀", 空伐Void
-https://al.flv.huya.com/src/308484379-308484379-1324930319131869184-617092214-10057-A-0-1-imgplus.flv?wsSecret=328c6126464d0ed196aece50f18cdeda&wsTime=628fc096&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017374777680&ratio=4000
-#EXTINF:-1 group-title="lol云顶之弈", 慎独
-https://hw.flv.huya.com/src/1279515529757-1279515529757-16794365138692997120-2559031182970-10057-A-0-1.flv?wsSecret=521be2f8cc5ae491e14a91712d36744b&wsTime=628fc0a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Az16%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017380572250&ratio=4000
-#EXTINF:-1 group-title="交友", 盛世-仙女湖-池御最御
-https://bd.flv.huya.com/src/999999600834796-600834796-2580565799118831616-1201793048-10057-A-0-11653494781.flv?wsSecret=f2f9d82d9f6cc53a08144b6071996c01&wsTime=628fc0a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic11%3B&fs=bgct&t=103&uid=0&seqid=16535017378531660&ratio=500
-#EXTINF:-1 group-title="户外", 集梦十四【洗面奶】
-https://bd.flv.huya.com/src/1704597744-1704597744-7321191563315380224-3409318944-10057-A-0-1.flv?wsSecret=bc6c64b532170232e9d1556fcb984912&wsTime=628fc0aa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017384232340
-#EXTINF:-1 group-title="王者模拟战", 久爱-西西【达文西】
-https://bd.flv.huya.com/src/2208606321-2208606321-9485891918433878016-4417336098-10057-A-0-1-imgplus.flv?wsSecret=f0e35bb1af0d8f662ce84f5c4c43e894&wsTime=628fc09b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017381672620&ratio=4000
-#EXTINF:-1 group-title="英雄联盟", kRYST4L
-https://hw.flv.huya.com/src/1575250000-1575250000-6765647233024000000-3150623456-10057-A-0-1-imgplus.flv?wsSecret=6f39f7a47c933897e693eb429b14ac5f&wsTime=628fc0a4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic3lt2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017385675580&ratio=4000
-#EXTINF:-1 group-title="二次元", 正恒RM-恩七不甜
-https://bd.flv.huya.com/src/89025392-89025392-382361147153580032-178174240-10057-A-0-1.flv?wsSecret=b7569cac75a796cebc3f459836ea4b6f&wsTime=628fc0aa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017387318150&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", 非凡-念青【边缘输出】
-https://al.flv.huya.com/src/2331134035-2331134035-10012144442917519360-4662391526-10057-A-0-1-imgplus.flv?wsSecret=c9a15c990c8ccea3555a20c8e1c669a0&wsTime=628fc09f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atzeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017387695820&ratio=4000
-#EXTINF:-1 group-title="二次元", 清清很温柔丶
-https://bd.flv.huya.com/src/1199606773739-1199606773739-5630264704111738880-2399213670934-10057-A-0-1.flv?wsSecret=013c497419c298062226abdb953012e5&wsTime=628fc0aa&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017386957520&ratio=2000
-#EXTINF:-1 group-title="王者模拟战", 乐清人丶河马
-https://bd.flv.huya.com/src/170903641-170903641-734025548862324736-341930738-10057-A-0-1-imgplus.flv?wsSecret=c9094525b344b6c8acfe5f863bbb1b8c&wsTime=628fc08f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017388183840&ratio=4000
-#EXTINF:-1 group-title="二次元", 诗瑶Baby
-https://aldirect.flv.huya.com/src/1605768071-1605768071-6896721349906006016-3211659598-10057-A-0-1.flv?wsSecret=b73eb34913fbefd50f3cc4896a4d639e&wsTime=628fc0ab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017392115360&ratio=4000
-#EXTINF:-1 group-title="星秀", 快乐老家
-https://bd.flv.huya.com/src/71862053-2645534014-11362482070585606144-3684952466-10057-A-0-1.flv?wsSecret=67595648299b30fcd2bfb7e91cdcdc55&wsTime=628fc0ab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017397849020&ratio=2000
-#EXTINF:-1 group-title="星秀", 呆呆珑【强徒】
-https://bd.flv.huya.com/src/2280841760-2280841760-9796140766551080960-4561806976-10057-A-0-1.flv?wsSecret=3ab1f6e28e27fd35fde48e54d8772fd8&wsTime=628fc0ab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535017399672040&ratio=4000
-#EXTINF:-1 group-title="星秀", 牛马-红牛【凯】
-https://bd.flv.huya.com/huyalive/1760008909-1760008909-7559180704823640064-3520141274-10057-A-0-1.flv?wsSecret=709832263abb15b931814d3c9984fa20&wsTime=628fc0ac&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017405565940
-#EXTINF:-1 group-title="英雄联盟", 皇族-星痕OB
-https://hw.flv.huya.com/src/77729063-77729063-333843783533723648-155581582-10057-A-0-1-imgplus.flv?wsSecret=142debdb894f9ec746fe6a82cb7a8c1b&wsTime=628fc0ab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1dx%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017393581040&ratio=4000
-#EXTINF:-1 group-title="王者荣耀", Yx9丶呆呆【火影】
-https://bd.flv.huya.com/src/1591942650-1591942650-6837341618857574400-3184008756-10057-A-0-1.flv?wsSecret=715cae82538cf6ce6a2247737e2c8b88&wsTime=628fc0ab&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awheic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017409724490&ratio=4000
-#EXTINF:-1 group-title="英雄联盟", AF-楠神李青
-https://al.flv.huya.com/src/1199528969934-1199528969934-5296099906132377600-2399058063324-10057-A-0-1.flv?wsSecret=63b2729197d160e4a15c5243fb970c02&wsTime=628fc095&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahf3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017410334160&ratio=2000
-#EXTINF:-1 group-title="星秀", AH丶朴允星
-https://bd.flv.huya.com/src/1678077165-1678077165-7207286543839395840-3356277786-10057-A-0-1.flv?wsSecret=2d582b63cbdad59ceb4b38652e478cf6&wsTime=628fc0ac&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017410326570&ratio=4000
-#EXTINF:-1 group-title="英雄联盟", 英雄联盟赛事
-https://hw.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=0c8ea232f4e913c8faba8ac4becade27&wsTime=628fc0a3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017411425740&ratio=4000
-#EXTINF:-1 group-title="二次元", 正恒RM丶多痣
-https://bd.flv.huya.com/src/1199534408648-1199534408648-5319459004894674944-2399068940752-10057-A-0-1.flv?wsSecret=58fae6ee0ddb4f7750935c86ea44da86&wsTime=628fc0a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017412014620&ratio=500
-#EXTINF:-1 group-title="星秀", Ck-奶酪小迪佳
-https://hw.flv.huya.com/huyalive/1199571650375-1199571650375-5479411004406235136-2399143424206-10057-A-0-1.flv?wsSecret=1833f12ad13460cbeca15a762c99fa99&wsTime=628fc0ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017413493230&ratio=2000
-#EXTINF:-1 group-title="和平精英", DK-阿顺
-https://aldirect.flv.huya.com/src/1639798221-1639798221-7042879731233980416-3279719898-10057-A-0-1.flv?wsSecret=3b85d931f53ef578abc610e5f0a541f1&wsTime=628fc0ac&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017412560880&ratio=8000
-#EXTINF:-1 group-title="二次元", 酥酥学姐
-https://hw.flv.huya.com/src/1012247540-1012247540-4347570079756451840-2024618536-10057-A-0-1.flv?wsSecret=cee06bb1942c46bdee9e859dfa134182&wsTime=628fc0ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017416979920&ratio=4000
-#EXTINF:-1 group-title="星秀", 奇领心er【小包子】
-https://hw.flv.huya.com/src/1279512252957-1279512252957-16780291389857464320-2559024629370-10057-A-0-1.flv?wsSecret=51dcc5ff8978802a5fca05d31d0aba14&wsTime=628fc09d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017417855530&ratio=4000
-#EXTINF:-1 group-title="星秀", UU醒了么【强徒】
-https://hw.flv.huya.com/src/1199593012997-1199593012997-5571162767253045248-2399186149450-10057-A-0-1.flv?wsSecret=250825a1478a21ad98473b6fc162fc4f&wsTime=628fc0ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535017414591760&ratio=2000
-#EXTINF:-1 group-title="王者荣耀", 赢城-风度【李白教学】
-https://al.flv.huya.com/src/1813883561-1813883561-7790570573247021056-3627890578-10057-A-0-1.flv?wsSecret=f73e589fda5368a41fa786ea392a9d2e&wsTime=628fc09c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017419135370&ratio=4000
-#EXTINF:-1 group-title="英雄联盟", 宠妻狂魔教练
-https://bd.flv.huya.com/src/994823755-994823755-4272735493008916480-1989770966-10057-A-0-1.flv?wsSecret=58a66ce5fc282ff0f52a52071b858264&wsTime=628fc0a9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017419932350&ratio=4000
-#EXTINF:-1 group-title="户外", 高冷男神钱小佳
-https://hw.flv.huya.com/src/1199585096447-1199585096447-5537161443905896448-2399170316350-10057-A-0-1.flv?wsSecret=163b7bc9dc3b7ba595b4092633ad37f8&wsTime=628fc0ae&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017421813080&ratio=500
-#EXTINF:-1 group-title="星秀", 华星-宇文泡儿【824】
-https://hw.flv.huya.com/src/1741394221-1741394221-7479231228638396416-3482911898-10057-A-0-1.flv?wsSecret=470756dd935d7ca01a557d42dad3f3e9&wsTime=628fc0a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017423120350&ratio=500
-#EXTINF:-1 group-title="星秀", 集梦西西【尊师寂寞】
-https://hw.flv.huya.com/src/1199532615756-1199532615756-5311758592389414912-2399065354968-10057-A-0-1.flv?wsSecret=f94a8f66d43e2e92d373699166b853e8&wsTime=628fc0ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017420079770&ratio=500
-#EXTINF:-1 group-title="和平精英", LP-荒神
-https://aldirect.flv.huya.com/src/1181193859-1181193859-5073188994641035264-2362511174-10057-A-0-1.flv?wsSecret=7f5a557b1cad860882c255266efdccb8&wsTime=628fc09b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aj10%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017424025140&ratio=8000
-#EXTINF:-1 group-title="星秀", 星火-沈曼
-https://hw.flv.huya.com/src/1199556712653-1199556712653-5415253976939495424-2399113548762-10057-A-0-1.flv?wsSecret=c3fa326f159808629f0d66ec3ceafc52&wsTime=628fc0ae&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,&t=103&uid=0&seqid=16535017424674320&ratio=500
-#EXTINF:-1 group-title="lol云顶之弈", 海豚-轩哥哥
-https://bd.flv.huya.com/src/1259518484041-1259518484041-4694684066694299648-2519037091538-10057-A-0-1.flv?wsSecret=4bb17303fc04b5c393c836a69293c24e&wsTime=628fc0ae&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awheic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017429519820&ratio=4000
-#EXTINF:-1 group-title="Dread Hunger", 神超
-https://hw.flv.huya.com/src/679257140-679257140-2917387201874493440-1358637736-10057-A-0-1-imgplus.flv?wsSecret=8ab8af3ae69464f64521af670f3e9951&wsTime=628fc0ae&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017431180770&ratio=4000
-#EXTINF:-1 group-title="二次元", 可爱的埋埋
-https://bd.flv.huya.com/src/1199586014030-1199586014030-5541102432882262016-2399172151516-10057-A-0-1.flv?wsSecret=b1e41bbaf15523b98f28755341209a89&wsTime=628fc0af&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017432415540&ratio=4000
-#EXTINF:-1 group-title="星秀", 嘉映-小9【路妹】
-https://hw.flv.huya.com/huyalive/1199526820967-1199526820967-5286870163147194368-2399053765390-10057-A-0-1.flv?wsSecret=32273cb38dc41b74ce7af78a2597af6e&wsTime=628fc0ae&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017429820530&ratio=4000
-#EXTINF:-1 group-title="星秀", 小爱爱好困
-https://aldirect.flv.huya.com/huyalive/1863069120-1863069120-8001820940587499520-3726261696-10057-A-0-1.flv?wsSecret=cdecc43854671b2ea3d96dcba5cf317d&wsTime=628fc0af&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535017435968240
-#EXTINF:-1 group-title="星秀", 书香、悠悠
-https://bd.flv.huya.com/src/1199607994469-1199607994469-5635507699538984960-2399216112394-10057-A-0-1.flv?wsSecret=e29cdea11ce0e6a279cc26cd951529c1&wsTime=628fc09a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535017439523080&ratio=2000
-#EXTINF:-1 group-title="交友", 乐悠-如约而至
-https://bd.flv.huya.com/src/9999991199547092915-1199547092915-5373937516833406976-2399094309286-10057-A-0-11653494718.flv?wsSecret=a5becf4ec48efc5d824083c7ae9c8bf7&wsTime=628fc0b0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&t=103&uid=0&seqid=16535017445193760&ratio=500
-#EXTINF:-1 group-title="交友", 仙女-花前月下
-https://bd.flv.huya.com/src/9999991199565639050-1199565639050-5453592560125607936-2399131401556-10057-A-0-11653447333.flv?wsSecret=92e23fc6b704c9cb83cc452232a95303&wsTime=628fc0b0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awheic1%3B&fs=bgct&t=103&uid=0&seqid=16535017450056070&ratio=500
-#EXTINF:-1 group-title="交友", 余温-有我真甜
-https://bd.flv.huya.com/src/9999991199545291513-1199545291513-5366200554156457984-2399090706482-10057-A-0-11653482730.flv?wsSecret=f4a60aef95d10ecab0c61facfe41369b&wsTime=628fc0b1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Az16%3B&fs=bgct&t=103&uid=0&seqid=16535017455485410&ratio=500
-#EXTINF:-1 group-title="交友", 仙女-爱刷不刷
-https://bd.flv.huya.com/src/999999474921909-474921909-2039774067308888064-949967274-10057-A-0-11653496760.flv?wsSecret=9b718a4f8a0228b8dab9f30b56d905b0&wsTime=628fc0b1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&uid=0&seqid=16535017459860660
-#EXTINF:-1 group-title="交友", DK-少女情愫
-https://bd.flv.huya.com/src/9999991199566742631-1199566742631-5458332404429094912-2399133608718-10057-A-0-11653458360.flv?wsSecret=4ba3d2cd9b70060bb33853bc1d54d7b0&wsTime=628fc0b2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc4%3B&fs=bgct&t=103&uid=0&seqid=16535017463841590
-#EXTINF:-1 group-title="交友", 逸鹿-摇曳的心-面条冠
-https://bd.flv.huya.com/src/9999991199526932830-1199526932830-5287350611073826816-2399053989116-10057-A-0-11653479850.flv?wsSecret=6a847bbaf500ece2be208be41b0aed0b&wsTime=628fc0b2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&t=103&uid=0&seqid=16535017469407890&ratio=500
+https://hw.flv.huya.com/src/1152629002-1152629002-4950503868011118592-2305381460-10057-A-0-1.flv?wsSecret=4ca7e03e5724db4b52abdbcce2ddce9d&wsTime=628fce3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052303572290&ratio=4000
+#EXTINF:-1 group-title="二次元", 妍妍超厉害2
+https://hw.flv.huya.com/src/1199606464165-1199606464165-5628935093906046976-2399213051786-10057-A-0-1.flv?wsSecret=da20ac6406d0c5c2ee789444f1a7b2ea&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052303233800&ratio=500
+#EXTINF:-1 group-title="王者荣耀", 许仙【座山雕】
+https://bd.flv.huya.com/src/1784500555-1784500555-7664371523418849280-3569124566-10057-A-0-1-imgplus.flv?wsSecret=44d5bc67edcc9db5f0466034e27f8271&wsTime=628fce35&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052303620940&ratio=4000
+#EXTINF:-1 group-title="星秀", 阳宝宝、
+https://bd.flv.huya.com/src/1259523217070-1259523217070-4715012271460319232-2519046557596-10057-A-0-1.flv?wsSecret=27ed9895faf4aa7ffb82587ca98b93fe&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&uid=0&seqid=16535052303689820&ratio=4000
+#EXTINF:-1 group-title="一起看", 周星星
+http://yj1211.work:8089/huya/11342412.m3u8
+#EXTINF:-1 group-title="二次元", 梦菲【感恩相遇】
+https://aldirect.flv.huya.com/huyalive/2332555792-2332555792-10018250842735378432-4665235040-10057-A-0-1.flv?wsSecret=722f2e43426c5ecd077dbdc2b5f9469e&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052304168230
 #EXTINF:-1 group-title="交友", LING-觅爱巡欢
-https://bd.flv.huya.com/src/9999991199527161888-1199527161888-5288334407692713984-2399054447232-10057-A-0-11653314175.flv?wsSecret=41011991d47965ffc579f1ee1e8285ef&wsTime=628fc0b3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac8%3B&fs=bgct&t=103&uid=0&seqid=16535017474196850&ratio=500
+https://bd.flv.huya.com/src/9999991199527161888-1199527161888-5288334407692713984-2399054447232-10057-A-0-11653314175.flv?wsSecret=3c7cc0ddb62060eaeed5b53246b1f72f&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aw2%3B&fs=bgct&t=103&uid=0&seqid=16535052304139850&ratio=500
+#EXTINF:-1 group-title="星秀", 华星-皮皮宝宝【925】
+https://bd.flv.huya.com/src/1636796409-1636796409-7029987046865240064-3273716274-10057-A-0-1.flv?wsSecret=14c9a3e7eb5847403db4569b08a41bef&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052304385280&ratio=2000
+#EXTINF:-1 group-title="星秀", 华星-宇文泡儿【824】
+https://hw.flv.huya.com/src/1741394221-1741394221-7479231228638396416-3482911898-10057-A-0-1.flv?wsSecret=eeca57cb1b12510249172f3920b1c5fd&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ac7%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052304114570&ratio=500
+#EXTINF:-1 group-title="王者荣耀", 初心【盼天归】
+https://aldirect.flv.huya.com/huyalive/1199580008764-1199580008764-5515310011808481280-2399160140984-10057-A-0-1.flv?wsSecret=907bcc3a3ba29a5825cc63a56589a56b&wsTime=628fce4e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052304812460&ratio=4000
+#EXTINF:-1 group-title="穿越火线", AzZ丶莫雨熙
+https://hw.flv.huya.com/src/1676306798-1676306798-7199682875472478208-3352737052-10057-A-0-1.flv?wsSecret=c737d1f9cf1bb7e6e98c611a15fa68db&wsTime=628fce40&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103&uid=0&seqid=16535052304849900&ratio=4000
+#EXTINF:-1 group-title="Dread Hunger", 换海c
+https://bd.flv.huya.com/huyalive/1564283826-1564283826-6718547874331754496-3128691108-10057-A-0-1.flv?wsSecret=c0cfc5a2b9e509ae43917a8f9ebbfd4c&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052304848890&ratio=4000
 #EXTINF:-1 group-title="交友", 星途-魂牵梦萦
-https://bd.flv.huya.com/src/9999991199526200061-1199526200061-5284203392183304192-2399052523578-10057-A-0-11652961332.flv?wsSecret=9d644fc1520b0bc6fe23467fc6c2f983&wsTime=628fc0b3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic32%3B&fs=bgct&t=103&uid=0&seqid=16535017479324680
-#EXTINF:-1 group-title="交友", 星光-私情蜜语
-https://bd.flv.huya.com/src/9999991259521463453-1259521463453-4707480543795609600-2519043050362-10057-A-0-11653479800.flv?wsSecret=96ee93bd4138070db829c6ccedd96d80&wsTime=628fc0b4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax41%3B&fs=bgct&t=103&uid=0&seqid=16535017484412790
-#EXTINF:-1 group-title="交友", 赢城-最强王者视频厅
-https://bd.flv.huya.com/src/9999991552164703-1552164703-6666496637390553088-3104452862-10057-A-0-11653494128.flv?wsSecret=278d45834a476da4e535c6661e42fb76&wsTime=628fc0b5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic32%3B&fs=bgct&t=103&uid=0&seqid=16535017490421650&ratio=2000
-#EXTINF:-1 group-title="交友", 天皓-Luckygirl云日冠
-https://bd.flv.huya.com/src/9999991199526177798-1199526177798-5284107773326393344-2399052479052-10057-A-0-11653471880.flv?wsSecret=85461ec689a4bfab8c6d809691ddd9c3&wsTime=628fc0b5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic3lt1%3B&fs=bgct&t=103&uid=0&seqid=16535017495214360
-#EXTINF:-1 group-title="交友", 萌新-初遇女孩
-https://bd.flv.huya.com/src/99999974276236-74276236-319014004489977856-148675928-10057-A-0-11653474576.flv?wsSecret=da9f1fc652e39b8d99ac20d2b5b5e069&wsTime=628fc0b5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103&uid=0&seqid=16535017499664130
-#EXTINF:-1 group-title="交友", ST-虎牙食堂
-https://bd.flv.huya.com/src/9999991299294771-1299294771-5580428549308809216-2598712998-10057-A-0-11653396279.flv?wsSecret=c09869ff8c83e38436e22acf48cfd7bc&wsTime=628fc0b6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax41%3B&fs=bgct&t=103&uid=0&seqid=16535017501462220
-#EXTINF:-1 group-title="交友", 星雪-佳期如梦
-https://bd.flv.huya.com/src/9999991199574243911-1199574243911-5490550156707233792-2399148611278-10057-A-0-11653494579.flv?wsSecret=98575883d379302f4adfdc256089df1f&wsTime=628fc0b6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&t=103&uid=0&seqid=16535017506650510
-#EXTINF:-1 group-title="交友", 星晴-美人
-https://bd.flv.huya.com/src/9999991199542090778-1199542090778-5352453502008295424-2399084305012-10057-A-0-11653197589.flv?wsSecret=e31260d02eca8f5f7c231af11e485da7&wsTime=628fc0b7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An4%3B&fs=bgct&t=103&uid=0&seqid=16535017512442510
+https://bd.flv.huya.com/src/9999991199526200061-1199526200061-5284203392183304192-2399052523578-10057-A-0-11652961332.flv?wsSecret=153bdcb269a02faa4e3afb01f6412aa1&wsTime=628fce40&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic32%3B&fs=bgct&t=103&uid=0&seqid=16535052304793360
+#EXTINF:-1 group-title="王者荣耀", 八戒工作室1
+https://bd.flv.huya.com/huyalive/1199608140382-1199608140382-5636134391102046208-2399216404220-10057-A-0-1.flv?wsSecret=4bd0176518f3361fb44cf66d7b131d72&wsTime=628fce3e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052305301060&ratio=2000
+#EXTINF:-1 group-title="王者荣耀", 枫逸【效率带粉】
+https://hw.flv.huya.com/huyalive/1199597265204-1199597265204-5589425857253867520-2399194653864-10057-A-0-1.flv?wsSecret=0f1a0e8336dc8a24ef830ff1f9047499&wsTime=628fce3f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&uid=0&seqid=16535052305852640&ratio=2000
