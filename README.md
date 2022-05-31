@@ -37,10 +37,16 @@
 ## 测试源
 > 以下直播源仅用于产品测试使用，禁止传播  
 > 以下直播源均来自于网络，本人只进行收集和整理，不对内容的隐私和版权负责
-- IPTV：https://img.whalenas.com:283/file/iptv.m3u 
+
+- IPTV：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+- 斗鱼直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/douyu-realtime.m3u
+- 虎牙直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/huya-realtime.m3u
+- bilibili直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/bilibili-realtime.m3u
+- 企鹅电竞直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/egame-realtime.m3u
+- 网易CC直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/cc-realtime.m3u
+- 虎牙影视：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/huya.m3u
+
 （该测试源每日更新，若出现个别频道无法播放，请在配置中心中刷新配置）
-- 虎牙：https://img.whalenas.com:283/file/huya.m3u
-- 爱奇艺：https://img.whalenas.com:283/file/iqiyi.m3u
 
 ## M1 Mac
 ![](https://img.whalenas.com:283/image/202204261557428.png)
