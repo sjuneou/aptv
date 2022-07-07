@@ -114,7 +114,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视", 新疆卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视", 浙江卫视
-http://117.148.179.136/TVOD/88888888/224/3221231567/index.m3u8
+http://183.207.249.34/PLTV/4/224/3221227393/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视", 陕西卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视", 深圳卫视
