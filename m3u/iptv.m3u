@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.whalenas.com:283/image/fireworks.png" group-title="上架啦！", 🎉 APTV上架啦
-http://39.134.67.99/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方", CCTV-世界地理
 http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", CCTV-央视文化精品
