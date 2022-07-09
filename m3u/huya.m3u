@@ -1,203 +1,921 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.whalenas.com:283/image/fireworks.png" group-title="上架啦！", 🎉 APTV上架啦
 http://39.134.67.99/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1042/0e/356fe2b69229b3b6e59517597aaa75_180_135.jpg?1446129774" group-title="一起看", 裸奔的蜗牛╮
-http://yj1211.work:8089/huya/11342418.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1098/42/53e820298f3c86a036422e195bc9eb_180_135.jpg?1446036001" group-title="一起看", 鱼塘塘主张年年
-http://yj1211.work:8089/huya/11342384.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1052/e5/c60285f2445730c6e17bad2eefe532_180_135.jpg" group-title="一起看", 傻妞
-http://yj1211.work:8089/huya/11342426.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg?1586044444" group-title="原创", 狗哥吃火锅
-http://yj1211.work:8089/huya/17269326.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/23/5801907dbf15423c8aec487df1fca1_180_135.jpg?1651451536" group-title="原创", 灯泡妹妹
-http://yj1211.work:8089/huya/610617.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/10/3c388a46eb8d750ce27de69cd0afbd_180_135.jpg?1612247383" group-title="一起看", 港剧慢品汇
-http://yj1211.work:8089/huya/23865142.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/1e/0bcedc77286612bd55f7ab4c26913f_180_135.jpg?1542876566" group-title="一起看", 凌莲
-http://yj1211.work:8089/huya/11602086.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/24/4b484ab26497fa9309a7c78715217c_180_135.jpg?1522311669" group-title="原创", 科幻梦工场
-http://yj1211.work:8089/huya/15152155.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/4b/bdd1e31b0131deac50db4173915414_180_135.jpg?1543373465" group-title="一起看", 西红柿
-http://yj1211.work:8089/huya/11601979.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/86/f826780a41885b6adc20640dec5ddf_180_135.jpg?1620958326" group-title="原创", 余小二【柚子】824
-http://yj1211.work:8089/huya/10279885.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1036/eb/17f80ff8f9851ee417b1fc688f6656_180_135.jpg?1494319827" group-title="一起看", 全优少年
-http://yj1211.work:8089/huya/11602081.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1080/29/688e85c4509728831c578c7517e0f7_180_135.jpg?1447838636" group-title="一起看", 痞子帅叔叔
-http://yj1211.work:8089/huya/11342433.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1048/7c/91edc505bc2b8068ae1f0ba822d7a9_180_135.jpg?1464061479" group-title="一起看", -懒猪
-http://yj1211.work:8089/huya/11342393.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/e7/d4f17fe8278aa00c302295e86756bf_180_135.jpg" group-title="一起看", 昵称违规-QQFbPxwM1A
-http://yj1211.work:8089/huya/11352958.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/aa/9dd4ba508be5eeee9541be5afa0178_180_135.jpg?1604643950" group-title="原创", Adam短发
-http://yj1211.work:8089/huya/21339980.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1073/0a/87fd57c47451ff3bc787c7688b0636_180_135.jpg?1447838686" group-title="一起看", No1常在心
-http://yj1211.work:8089/huya/11342402.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/d1/6985774680806374e0774a4e87c1b9_180_135.jpg?1657222686" group-title="原创", 星球-繁星星
-http://yj1211.work:8089/huya/27312838.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/5c/ddd1fc1b67a9a7ef7f757c37493588_180_135.jpg?1633943282" group-title="原创", 大鱼爱路飞
-http://yj1211.work:8089/huya/25818873.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/92/75094555f8a62eb49b7f12dd58b445_180_135.jpg?1655624564" group-title="原创", 小汐4
-http://yj1211.work:8089/huya/27340533.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d4/6588183cdc26e2744d157ed403a293_180_135.jpg?1606807310" group-title="一起看", 普通司机小马
-http://yj1211.work:8089/huya/23749096.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/af/f7e0df13ba7441809a8b515847711a_180_135.jpg?1622590300" group-title="原创", 凤武
-http://yj1211.work:8089/huya/17917712.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1035/ad/280f7ff49791a495327039fb1a436e_180_135.jpg?1462501270" group-title="探索", 摄氏零度
-http://al.flv.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.flv?wsSecret=f38525e9064bf90fc65d27633f4bc757&wsTime=62caf7ef&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ba/8d4297e170d989164b737df51ec94b_180_135.jpg?1652949255" group-title="原创", 辣条讲故事
-http://yj1211.work:8089/huya/26848148.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1030/74/6bb7ec6706120f91025e48b5a6d245_180_135.jpg?1447731426" group-title="一起看", 炙恋兽兽
+http://yj1211.work:8089/huya/11342428.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/28/1e59507d7935aa6317493292cc3c98_180_135.jpg?1605151985" group-title="一起看", 白泽字幕组
+http://yj1211.work:8089/huya/23652317.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/0c/c8e5bab292814fbfc6fb3bd2da62a9_180_135.jpg?1533019304" group-title="一起看", 喧嚣的夏风
+http://yj1211.work:8089/huya/10871113.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/db/446bb0a520e478d6322ecd9d00fac9_180_135.jpg" group-title="探索", 赛文777
+http://al.flv.huya.com/src/1099531752795-1099531752795-86436298436378624-2199063629046-10057-A-0-1.flv?wsSecret=37c5fd38eb2e0626f821eb3b4c19a641&wsTime=62cafb64&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/1b/02e821d1af72953aae454f74293235_180_135.jpg" group-title="一起看", 小当家动漫社
+http://yj1211.work:8089/huya/24257300.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1042/8a/2da4ab2ee277d62423abf995594647_180_135.jpg?1489542636" group-title="一起看", 迷失
+http://yj1211.work:8089/huya/11602041.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/21/cf70c89d704f5ad1f7f45640117e18_180_135.jpg?1618468802" group-title="一起看", 里昂保护的玛蒂达
+http://yj1211.work:8089/huya/21059594.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1019/27/7ef13b37c65c32e1416217655113c4_180_135.jpg?0" group-title="一起看", 酒窝储存机
+http://yj1211.work:8089/huya/11602043.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/a0/6343ce60e55d598a4ad3bed6fa43fd_180_135.jpg?1560231135" group-title="一起看", 个人向
+http://yj1211.work:8089/huya/11352963.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/ca/ea64547240470fc4d13e959291ffda_180_135.jpg?1612235518" group-title="一起看", TVBaby
+http://yj1211.work:8089/huya/23865164.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1052/34/f0168524ec76c7f49146f73c116fbc_180_135.jpg" group-title="一起看", 骚年跟我来听歌
+http://yj1211.work:8089/huya/11352974.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/2e/4b9f6e9a64f53aafadd7d593f49a20_180_135.jpg" group-title="探索", 而莫善者恶之
+http://al.flv.huya.com/src/1099531840855-1099531840855-86814513256464384-2199063805166-10057-A-0-1.flv?wsSecret=af7e0943f921b5d98f0902dc5e18d15e&wsTime=62cafb65&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1039/f2/8c5e32bfcd2e678d9511ae21ebc6b1_180_135.jpg?1453112835" group-title="一起看", 斯国一
+http://yj1211.work:8089/huya/11352905.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/cd/20915c8b8265437efacc44732fe103_180_135.jpg" group-title="探索", 撫孤于人也
+http://al.flv.huya.com/src/1099531840902-1099531840902-86814715119927296-2199063805260-10057-A-0-1.flv?wsSecret=374ab6c7689229df6beb3b907191b003&wsTime=62cafb65&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/4b/b6efe18a159bbdd4b0f1df15f1781b_180_135.jpg?1655345764" group-title="原创", 一日壹片
+http://yj1211.work:8089/huya/25863457.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/21/ad6f7b8cff902c4e4d827d8d3de2e4_180_135.jpg?1571664979" group-title="原创", 喜仔的动画世界
+http://yj1211.work:8089/huya/20036751.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1025/de/eae059a5ee332ee62ebe1dbd90e9c0_180_135.jpg?1459218859" group-title="一起看", -若凌Provence-
+http://yj1211.work:8089/huya/11352955.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/25/d7f1cac49929155f84ebd35fa8153d_180_135.jpg?1565864168" group-title="一起看", 我要在你头上暴扣
+http://yj1211.work:8089/huya/19524135.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1020/64/073b401ac8a9d2849ed127229f640c_180_135.jpg" group-title="一起看", 兜兜з
+http://yj1211.work:8089/huya/11352910.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1091/2d/7bb2f158c9d3f0896f6ed313afc638_180_135.jpg?1456304717" group-title="一起看", 笙歌
+http://yj1211.work:8089/huya/11352965.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/5d/c71ae697f1ec490e9679a0997a5901_180_135.jpg?1604503633" group-title="探索", 阿夹
+http://al.flv.huya.com/src/1099531752646-1099531752646-86435658486251520-2199063628748-10057-A-0-1.flv?wsSecret=6213cde8ac8b38c0c0ca8d74b48b6e4b&wsTime=62cafb66&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1061/2f/0b14d5852f942250db6364c9025d0d_180_135.jpg" group-title="一起看", 了不起的小萌虎
+http://yj1211.work:8089/huya/11342388.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1079/1d/ca62f0140cef86cdec55afafe64411_180_135.jpg" group-title="一起看", 学妹爱学长
+http://yj1211.work:8089/huya/11352886.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1013/e1/63455f6cc24cdde3188a6d26335112_180_135.jpg?1465205440" group-title="一起看", 浮生没有若梦
+http://yj1211.work:8089/huya/11601986.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1015/fd/c5a0fe1782cc9469b09006f27778a0_180_135.jpg?1650448871" group-title="原创", 空哥讲动漫
+http://yj1211.work:8089/huya/26366726.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/ee/199de6a35c136b53926ce029685e2e_180_135.jpg?1604504017" group-title="探索", 科技宅男
+http://al.flv.huya.com/src/1099531752648-1099531752648-86435667076186112-2199063628752-10057-A-0-1.flv?wsSecret=33d407c514b5c978f4320ba28e641226&wsTime=62cafb67&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_2000,&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/88/fa6c98b87181724117dd9f63c13344_180_135.jpg?1652412601" group-title="原创", 老P仔动漫
+http://yj1211.work:8089/huya/26510802.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/1c/3addc221fc0a6523d4a829709a44a0_180_135.jpg?1599924717" group-title="原创", 逆火行
+http://yj1211.work:8089/huya/15824466.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/ae/e4c79d25571888f30bb8357272e293_180_135.jpg?1543373584" group-title="一起看", 粉娘
+http://yj1211.work:8089/huya/11601978.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/67/af61d2cf4405b2ee7aa72e27b6423e_180_135.jpg" group-title="探索", 玩大变成光
+http://al.flv.huya.com/src/1099531752796-1099531752796-86436302731345920-2199063629048-10057-A-0-1.flv?wsSecret=5ce508e27af0ec2f2d71c2e92f56631f&wsTime=62cafb67&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/db/535e679fd698b699ef67a508afabc7_180_135.jpg?1446036068" group-title="一起看", 战斗联盟
+http://yj1211.work:8089/huya/11342413.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1029/36/bbf85e68ecdee8714b3cf9466110ac_180_135.jpg?1449121205" group-title="一起看", HelloKitty
+http://yj1211.work:8089/huya/11352879.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/5d/461d6df6664474cc3970bd7986f513_180_135.jpg?1642401644" group-title="原创", 奥特博物馆V
+http://yj1211.work:8089/huya/26509852.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/4c/e3be5555615a81c1fa7e6218449943_180_135.jpg?1543213358" group-title="原创", 鲁班爱看剧
+http://yj1211.work:8089/huya/17139168.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/fe/5c863c35deee7013847725b7d81222_180_135.jpg?1545295902" group-title="原创", 小冉看电影
+http://yj1211.work:8089/huya/17341907.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/e2/8b8aa989e7ed34e6206eadf80ff6f3_180_135.jpg" group-title="一起看", 沐小错
+http://yj1211.work:8089/huya/11352956.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1051/6f/6814ba67b8b8fedae7c74612c96039_180_135.jpg?1652696986" group-title="原创", 好尸
+http://yj1211.work:8089/huya/15981239.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/45/a9f032bbcfbf246ff7b11df96857cf_180_135.jpg?1600791332" group-title="探索", 缠
+http://al.flv.huya.com/src/1099531752618-1099531752618-86435538227167232-2199063628692-10057-A-0-1.flv?wsSecret=54b8143f0e14429c5093b2f8e3febf3a&wsTime=62cafb68&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/d0/50ebf358fb4b19b7507b652f85f905_180_135.jpg?1621071408" group-title="原创", 吾聊电影
+http://yj1211.work:8089/huya/16424416.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/2f/92dc5f92e5c8a0e277cd66bd290ee5_180_135.jpg?1634624426" group-title="原创", 天哥打鬼子
+http://yj1211.work:8089/huya/25863263.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1049/3a/3f50dc18208783c6c9f5b9a76c59b2_180_135.jpg?1453112883" group-title="一起看", 尐饭团
+http://yj1211.work:8089/huya/11352907.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/a4/085c93cdfac46cf422f30762d90ecd_180_135.jpg?1583838976" group-title="探索", 成长学院
+http://al.flv.huya.com/src/1099531752680-1099531752680-86435804515139584-2199063628816-10057-A-0-1.flv?wsSecret=483695a1cb49de6ed1a10d3e9c34afc5&wsTime=62cafb69&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aw2%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/d1/52ab54bc731691a8f870112ea0d0fd_180_135.jpg?1607320273" group-title="一起看", 老板给次机会吧
+http://yj1211.work:8089/huya/23829447.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/01/2a005482db79198ecd1bdfcebb4c5a_180_135.jpg?1634719292" group-title="原创", 兔八哥说电影
+http://yj1211.work:8089/huya/25869759.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/4b/3de699d092d0c87297d1043201e83e_180_135.jpg?1602591630" group-title="一起看", 芦苇微微的弟子
 http://yj1211.work:8089/huya/21059558.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/a7/07f9512d16f648526ecf9dd2f86c82_180_135.jpg?1641391023" group-title="原创", DD-柠檬
-http://yj1211.work:8089/huya/25276867.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg?1517472689" group-title="原创", 电影最TOP
-http://yj1211.work:8089/huya/11774959.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/15/a6e0b1c53349fd819ab15dd3c7db71_180_135.jpg?1612404715" group-title="一起看", iTVB大后宫
-http://yj1211.work:8089/huya/23863804.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/6e/66701eb3fad7965cf67999cb653681_180_135.jpg?1552442180" group-title="一起看", yao不能停
-http://yj1211.work:8089/huya/11601980.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1012/f5/b6e246fc050f005a7eb50db0ec37b5_180_135.jpg?1448361051" group-title="一起看", 會唱歌的小野貓
-http://yj1211.work:8089/huya/11352871.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/2b/77ff4b773650b73e383363c3035747_180_135.jpg?1655884098" group-title="原创", 星球-冰墩墩
-http://yj1211.work:8089/huya/27128063.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/4b/65cb51ef1752b9942161896e88d6e7_180_135.jpg?1651269071" group-title="原创", DD-沝沝
-http://yj1211.work:8089/huya/25974487.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/e7/973a4388a3a04c8b0d140b88dd6d92_180_135.jpg" group-title="一起看", 心疼得抱住胖胖的自己
-http://yj1211.work:8089/huya/11342425.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1051/52/04ca3e43afc3ae35e18203713da451_180_135.jpg?1655727899" group-title="原创", 星球-熙熙吖
-http://yj1211.work:8089/huya/27347783.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/63/94321039835007d62f769ea2cac0fe_180_135.jpg?1656961792" group-title="原创", 小糯米丿
-http://yj1211.work:8089/huya/27444679.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/2e/4b9f6e9a64f53aafadd7d593f49a20_180_135.jpg" group-title="探索", 而莫善者恶之
-http://al.flv.huya.com/src/1099531840855-1099531840855-86814513256464384-2199063805166-10057-A-0-1.flv?wsSecret=6913bc204459e6a4a9e3383a5149d639&wsTime=62caf7f4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1087/94/d718f164cbdab50db6d8c07d594a57_180_135.jpg?1449487171" group-title="一起看", 柯冉冉
-http://yj1211.work:8089/huya/11352874.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1050/f0/d2bea97c07b5f664c9b344e648db6d_180_135.jpg" group-title="一起看", 杀马特死神
-http://yj1211.work:8089/huya/11352875.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/20/9ac36a840b4880ff6b08724732a7cf_180_135.jpg?1606722348" group-title="原创", 嫩模下厨房
-http://yj1211.work:8089/huya/23735181.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/6b/a8fcf7f5061c8e09bb20fb440b1895_180_135.jpg?1649567922" group-title="探索", 德云贝贝
-http://al.flv.huya.com/src/2196391103-2196391103-9433427956610367488-4392905662-10057-A-0-1.flv?wsSecret=710e0fe48c6f8dff1fe026796ec4ba32&wsTime=62caf7f4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&ratio=4000
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/ca/1eaca36d155e7436c403216897a73f_180_135.jpg?1540887593" group-title="原创", 南西视频
-http://yj1211.work:8089/huya/16913382.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/f6/41e59ae94805ed7aba7aec4127ef6a_180_135.jpg?1606807792" group-title="一起看", Amy姐
-http://yj1211.work:8089/huya/23746486.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/f8/caf9d8dd40dcc76a8ffec606d476bd_180_135.jpg" group-title="探索", 平野以記之
-http://al.flv.huya.com/src/1099531840886-1099531840886-86814646400450560-2199063805228-10057-A-0-1.flv?wsSecret=64fbf51633e4f95fd9b9f5d9ba73781b&wsTime=62caf7f4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1057/b1/86411769a7594adda1e6c43572dffd_180_135.jpg" group-title="一起看", 不发威当我Kitty
-http://yj1211.work:8089/huya/11342403.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1041/7d/9207d1a3ef105d6a498e4543887427_180_135.jpg" group-title="一起看", 我是詹密
-http://yj1211.work:8089/huya/11342439.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1083/8b/5793f339dff0a893b225061442a458_180_135.jpg?1463968900" group-title="一起看", 老雷
-http://yj1211.work:8089/huya/11602034.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/c3/2a2cc24d3cf5fa734604c210cb461a_180_135.jpg?1649043436" group-title="原创", Stone丶爱米利
-http://yj1211.work:8089/huya/26746074.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1040/61/9e8348d60b86f6391add9746a0fe0e_180_135.jpg" group-title="一起看", 种瓜得弟弟
-http://yj1211.work:8089/huya/11352872.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/c6/1219552ecdbfa3e8fefec5605de3bf_180_135.jpg?1625682800" group-title="原创", SJ-倾甜
-http://yj1211.work:8089/huya/22972199.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="一起看", 鯎爺
-http://yj1211.work:8089/huya/11352944.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825" group-title="一起看", 虎牙影院
-http://yj1211.work:8089/huya/11601968.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1027/86/3816fff1eef0e4c346fc840b627740_180_135.jpg" group-title="一起看", SMG最强大脑
-http://yj1211.work:8089/huya/11352914.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/83/b12de2bcc442c817145a0b7a09bf2c_180_135.jpg?1656730384" group-title="原创", 小番薯呀-
-http://yj1211.work:8089/huya/27386138.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/92/77155200bd5aa9853a17297fdf105f_180_135.jpg?1606717068" group-title="一起看", 我只是个好人
-http://yj1211.work:8089/huya/23728674.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/7c/ca158824fb83add51f431844c171ae_180_135.jpg?1643010635" group-title="探索", 宇宙摸魚人
-http://al.flv.huya.com/src/1099531840844-1099531840844-86814466011824128-2199063805144-10057-A-0-1.flv?wsSecret=faa29ba712b9396baca51c56e1a0aa31&wsTime=62caf7f4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/5e/78f08eff3c9c51fbdf695431b9b1d4_180_135.jpg?1569319588" group-title="原创", 止戈电影
-http://yj1211.work:8089/huya/19863777.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381" group-title="原创", 陈翔六点半
-http://yj1211.work:8089/huya/11274154.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/f2/21d12c202a02c9b4168276f91a71c0_180_135.jpg?1618469113" group-title="一起看", 我是一颗小虎牙
+http://yj1211.work:8089/huya/21059596.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1058/84/964663d72bfe3d6fddf0561f7219f5_180_135.jpg?1448422944" group-title="一起看", SMG爆笑舞台
+http://yj1211.work:8089/huya/11352937.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/11/417227b85bce7db073201ae118f04b_180_135.jpg?1647246065" group-title="原创", 呆瓜侃电影
+http://yj1211.work:8089/huya/26714197.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/c4/df0c79e95fb3d745afb0e5c035c111_180_135.jpg?1621826865" group-title="原创", 仕说电影
+http://yj1211.work:8089/huya/24791905.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/81/b8f22f910de1929d595fe24d9da9ce_180_135.jpg?1580996776" group-title="探索", 爱野钓的小范
+http://al.flv.huya.com/src/1199529483981-1199529483981-5298307721185984512-2399059091418-10057-A-0-1.flv?wsSecret=51510c987db80d1376bd77aa70aef83b&wsTime=62cafb69&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f8/98934e92305cbad481929fe006673f_180_135.jpg?1542705352" group-title="原创", 音乐小石榴
+http://yj1211.work:8089/huya/17091681.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1051/f4/2b883d6dcf933f41f86b13c3e29412_180_135.jpg" group-title="探索", 艺术旅者
+http://al.flv.huya.com/src/1099531752661-1099531752661-86435722910760960-2199063628778-10057-A-0-1.flv?wsSecret=ee50ddcb86dcc37dd69cd0682488c886&wsTime=62cafb6a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/e8/75a323e6cc8a82af3b525262732894_180_135.jpg?1559014348" group-title="一起看", 母胎solo二百年
+http://yj1211.work:8089/huya/11601982.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1097/13/ba4add00462ecf4ffb6ca602017a6f_180_135.jpg?1463659716" group-title="一起看", loVe、飘零
+http://yj1211.work:8089/huya/11602074.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/d5/8e38e286a378c453f8264d52dc96da_180_135.jpg?1583480296" group-title="原创", 青年电影馆
+http://yj1211.work:8089/huya/21388479.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1014/c1/c0a9afcfae463fcddd62d18af0710c_180_135.jpg?1463660134" group-title="一起看", 实力拔萝卜
+http://yj1211.work:8089/huya/11601960.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/c7/797022247e11ba9454d87ebe320aa7_180_135.jpg" group-title="一起看", 主播小贞
+http://yj1211.work:8089/huya/11352935.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/58/66ee10dfbbec376791663287678bd9_180_135.jpg" group-title="一起看", 吞针主播
+http://yj1211.work:8089/huya/11352887.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/90/9a2a43815067279991409eb69a08df_180_135.jpg?1542862062" group-title="原创", 幻海航行
+http://yj1211.work:8089/huya/17105786.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1082/eb/86166378a3cc14695da85c772dc5b5_180_135.jpg?1446036107" group-title="一起看", 元芳看不到
+http://yj1211.work:8089/huya/11342414.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/6e/51789b3b7a3d5fec75a8d3ecedb897_180_135.jpg?1539255189" group-title="原创", 恐怖地带
+http://yj1211.work:8089/huya/16741179.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1025/dd/96bd545ccf532b120ad54b1c12ea1f_180_135.jpg?1494320127" group-title="一起看", 漓江塔景区售票阿姨
+http://yj1211.work:8089/huya/11602082.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/88/30b87b0089d3fb73c3040ff5ea6a19_180_135.jpg?1618468236" group-title="一起看", 超人的归来
+http://yj1211.work:8089/huya/21059588.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/eb/7e846060cdd5aa13b82e78688056ec_180_135.jpg?1606717954" group-title="一起看", 梁非凡吔X啦
+http://yj1211.work:8089/huya/23749083.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/0c/b53333444abba604faa2df4d77375b_180_135.jpg?1555566240" group-title="原创", 李小哇絮叨叨
+http://yj1211.work:8089/huya/18441722.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/372ec30602769d544215527d843fc5_180_135.jpg?1618805461" group-title="一起看", 阿汤哥的影迷
+http://yj1211.work:8089/huya/21059585.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/6c/917a231e72a5cdd2636ecee35e5bc5_180_135.jpg?1612426720" group-title="原创", 喝一碗杏仁茶
+http://yj1211.work:8089/huya/21059565.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/98/dcdfd2ee5608ce64d16296c2d5325a_180_135.jpg?1449725201" group-title="一起看", 葱花
+http://yj1211.work:8089/huya/11352938.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1068/80/6cf84f5d3eab043e34156080ac55b2_180_135.jpg?1445851450" group-title="一起看", 蓶1淳爷
+http://yj1211.work:8089/huya/11336719.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1043/c2/08d676210bd05ceae6043d1bdc19be_180_135.jpg?1462448288" group-title="一起看", 科技这样玩
+http://yj1211.work:8089/huya/11602033.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/f7/f619d82184aaee854f1bd8912d7927_180_135.jpg?1542942334" group-title="一起看", 鸽宝小改改
+http://yj1211.work:8089/huya/11601970.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/89/6ac176a659e083321994b92e7c8ec9_180_135.jpg?1564794877" group-title="原创", 彤颜童语
+http://yj1211.work:8089/huya/19398022.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/ce/388cee795d15ad03d4db6616496726_180_135.jpg?1573465841" group-title="一起看", 茶啊二中
+http://yj1211.work:8089/huya/11213191.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/d0/bdf3551e0c6da66a4013329d364495_180_135.jpg?1608177412" group-title="一起看", 过儿想姑姑了
+http://yj1211.work:8089/huya/23749068.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/c1/52e00a9af86d06d2a2a467f551ab6d_180_135.jpg?1649439695" group-title="原创", 大聪明和魏乐乐影院
+http://yj1211.work:8089/huya/23304691.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/fd/f9ab05914966594fd80140b72d6746_180_135.jpg?1571113123" group-title="原创", 可乐撩电影
+http://yj1211.work:8089/huya/20045465.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/2b/ab862c63453909e03bdb8a73f3e22e_180_135.jpg?1612508056" group-title="一起看", 状元及第粥
+http://yj1211.work:8089/huya/21059581.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/eb/e56a950851c7a08bd184ee8d7806bc_180_135.jpg?1628595003" group-title="原创", 寻宝求生
+http://yj1211.work:8089/huya/25396569.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/83/104c6e693c2110b0bf0893bf021c1b_180_135.jpg" group-title="探索", 老实的小虎牙
+http://al.flv.huya.com/src/1099531752797-1099531752797-86436307026313216-2199063629050-10057-A-0-1.flv?wsSecret=9e9a6f727e0829ee117a5eec9e839674&wsTime=62cafb6c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1059/89/54f8f985e5fce58ab7253c340ff19b_180_135.jpg?1498529740" group-title="一起看", yoo
+http://yj1211.work:8089/huya/11352876.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/38/f181bc0cc5469c26e599893c825a8d_180_135.jpg?1587375461" group-title="原创", 默爷侃电影
+http://yj1211.work:8089/huya/17204307.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1055/6b/5994bafeb23e8caa8bc60248b9a37e_180_135.jpg" group-title="一起看", 小牡蛎
+http://yj1211.work:8089/huya/11352962.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1088/bd/85484a0eb2156309986fa8a5741629_180_135.jpg?1612508374" group-title="一起看", 西九龙冠希哥
+http://yj1211.work:8089/huya/21059579.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/7e/366ae2ea9db3c98ac57ec28781983f_180_135.jpg?1530171252" group-title="原创", 小川侃电影
 http://yj1211.work:8089/huya/15870999.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/50/d7c64fef5ff9694b18d2771c15fe91_180_135.jpg?1649154155" group-title="原创", 微竞-笑笑大兔兔
-http://yj1211.work:8089/huya/26835465.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/8f/3640f585497095d3fc46272ce8edf6_180_135.jpg?1653277608" group-title="原创", SG-甜橙Q
-http://yj1211.work:8089/huya/25782683.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/b6/a8b1c8dd004e9b08880893401bb777_180_135.jpg?1656033388" group-title="原创", DD-菜萌
-http://yj1211.work:8089/huya/25154601.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/e6/d6c570407c0716e88b1a74c880d055_180_135.jpg?1655920508" group-title="原创", 微竞-猪酱阿
-http://yj1211.work:8089/huya/14901956.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg?1445851392" group-title="一起看", 武林萌主唐小姐
-http://yj1211.work:8089/huya/11336726.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="一起看", 7喜先生
-http://yj1211.work:8089/huya/11342421.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/46/1a81c724093e8cca545948a6605199_180_135.jpg?1447838576" group-title="一起看", 领带哥
-http://yj1211.work:8089/huya/11342430.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="一起看", 小木子先生丶
-http://yj1211.work:8089/huya/11342396.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/13/d1e296180dda55ff7503c586380351_180_135.jpg?1612406399" group-title="一起看", 堆堆港剧日记
-http://yj1211.work:8089/huya/23903130.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/1b/e658e859484cb9a062f05b1b542393_180_135.jpg?1542873828" group-title="一起看", 四次元先生
-http://yj1211.work:8089/huya/11602071.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/dc/220aa819b2f3237d62bb66a75a0a43_180_135.jpg?1531813967" group-title="原创", 扁豆看电影
-http://yj1211.work:8089/huya/16028551.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/2b/1e4fa172491920d69d80976e02cd47_180_135.jpg" group-title="一起看", 瞬间爆炸
-http://yj1211.work:8089/huya/11352960.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1006/e9/c8c7e7e3fe872a8d5ac413a033a88b_180_135.jpg?1463660408" group-title="一起看", 北岛南城
+http://yj1211.work:8089/huya/11601962.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/29/778e45e243a40cea76475f22ac7884_180_135.jpg?1602591025" group-title="一起看", Eric次元宝贝
+http://yj1211.work:8089/huya/21059552.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/28/b72eb8b003d7257e9933511426e7ed_180_135.jpg?1621334615" group-title="原创", 荒野求生影视
+http://yj1211.work:8089/huya/24766781.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/5e/6f611ef062e410f78e8799e75cb60f_180_135.jpg?1612508471" group-title="一起看", 还我瓢瓢拳
+http://yj1211.work:8089/huya/21059578.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1088/f4/ba5d043902ed5ae09ae44e3026f5a8_180_135.jpg?1453892819" group-title="一起看", 来听歌呀
+http://yj1211.work:8089/huya/11352913.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/94/d5a68ebfead345512f78da4748d8d0_180_135.jpg?1582818571" group-title="原创", 大象放映室
+http://yj1211.work:8089/huya/21277391.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/94/5e36b2963a3d6442c31bad47f75e49_180_135.jpg?1616148478" group-title="原创", 大梦电影
+http://yj1211.work:8089/huya/24418400.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/4e/34317ec1baec7725eda8247bcd77d2_180_135.jpg" group-title="探索", 夏蟲而冠帶
+http://al.flv.huya.com/src/1099531840932-1099531840932-86814843968946176-2199063805320-10057-A-0-1.flv?wsSecret=1b75b2934cb75ed16f38097b0a4edf0d&wsTime=62cafb6e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/93/b5fcd70e2bae4222c111a370952296_180_135.jpg?1619149386" group-title="原创", 硬汉影探
+http://yj1211.work:8089/huya/24614407.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/5f/9aa963486ce7ae2b8bd970bc5769b5_180_135.jpg?1606722494" group-title="一起看", 音粤无国界
+http://yj1211.work:8089/huya/23734256.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1060/e7/ac0c0c3805806148cb9a84475c5484_180_135.jpg?1512383459" group-title="原创", 续哥说电影
+http://yj1211.work:8089/huya/24396472.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/0f/d128d50b4f200471973ac197397889_180_135.jpg?1612404678" group-title="一起看", TVB爱情故事
+http://yj1211.work:8089/huya/23863818.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/77/83e474b7c44fbb7ac8315ded8285c2_180_135.jpg?1646814620" group-title="探索", 看似斐濟
+http://al.flv.huya.com/src/1099531840859-1099531840859-86814530436333568-2199063805174-10057-A-0-1.flv?wsSecret=8a4f4914a61980978b3d0d0a4ac3f349&wsTime=62cafb6f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/19/bc55d6fd83f0dbfae3939e937080f2_180_135.jpg?1538072257" group-title="原创", 鱼丸说电影
+http://yj1211.work:8089/huya/16615910.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/0c/26e53f84e284e22cf9082c4c28131b_180_135.jpg?1598951846" group-title="原创", 越哥说电影
+http://yj1211.work:8089/huya/15894162.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/7e/99584647e1ac02f3d7b6c76aefe48a_180_135.jpg?1586851499" group-title="探索", 唐唐科普
+http://al.flv.huya.com/src/1099531752702-1099531752702-86435899004420096-2199063628860-10057-A-0-1.flv?wsSecret=4d1c75e5a747c9533ae5b1b69762fe65&wsTime=62cafb6f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/c1/e7e19a1c06fe234cdfffb1ae916ebd_180_135.jpg?1603263683" group-title="原创", 恐怖电影猪哥
+http://yj1211.work:8089/huya/14015002.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/8d/24349ca1533ed5a38f40a0481cfa46_180_135.jpg?1608191178" group-title="探索", ByDiy
+http://al.flv.huya.com/src/1099531752668-1099531752668-86435752975532032-2199063628792-10057-A-0-1.flv?wsSecret=1fad75ad5d333f953235f7f0c71fc701&wsTime=62cafb70&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/1b/df3909cf6ca649be2ef6199f61d893_180_135.jpg?1606806346" group-title="一起看", 是大宝贝呀
+http://yj1211.work:8089/huya/23829543.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/72/f6e706fe4c22d2c0372149e099cf4a_180_135.jpg?1574154246" group-title="原创", 噔噔悬疑社
+http://yj1211.work:8089/huya/17445539.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/2a/ba5028fc9a2c95bf9cbc8818e7c660_180_135.jpg?1560229697" group-title="原创", 空空说电影
+http://yj1211.work:8089/huya/15923500.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1094/a6/79106bf65d2c4c47bb89c1196aebb4_180_135.jpg?0" group-title="一起看", 嫣然
+http://yj1211.work:8089/huya/11601977.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/41/5bb1814e6dff5d1064fabf0753fc2e_180_135.jpg?1625981028" group-title="原创", 涵哥评电影
+http://yj1211.work:8089/huya/16865726.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/ee/68d70cd89292336b5a6a4677d3bb32_180_135.jpg" group-title="探索", 阿叁
+http://al.flv.huya.com/src/1099531752619-1099531752619-86435542522134528-2199063628694-10057-A-0-1.flv?wsSecret=37bbcb6dedf31a4331be21da6fcad776&wsTime=62cafb70&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An4%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/77/f8251ae3c15ca6384b77b5bb75ca00_180_135.jpg?1606803474" group-title="一起看", 鸡公碗
+http://yj1211.work:8089/huya/23734211.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1062/69/6cb628f7784cdc3baccbe0a14d8b51_180_135.jpg" group-title="一起看", 二次元控
+http://yj1211.work:8089/huya/11352912.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/2e/2e97b2bc3bce57dfced78cc6885a57_180_135.jpg?1543370499" group-title="一起看", 苏仨
+http://yj1211.work:8089/huya/11601972.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/25/1d88edf7f3453fd77d0b443024be23_180_135.jpg?1606722940" group-title="一起看", 正经纪录片
+http://yj1211.work:8089/huya/23860049.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ba/8d4297e170d989164b737df51ec94b_180_135.jpg?1652949255" group-title="原创", 辣条讲故事
+http://yj1211.work:8089/huya/26848148.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/1f/6081dd7d6587c51625303be294164f_180_135.jpg?1542942651" group-title="一起看", 小怪兽、
+http://yj1211.work:8089/huya/11602044.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/68/7104972fe779d8fede88802822721c_180_135.jpg?1542872230" group-title="一起看", 假装
+http://yj1211.work:8089/huya/11352948.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1043/1b/1f00f81ac5ebce10569c9e1abc426e_180_135.jpg?1456451235" group-title="一起看", 飙车的老司机
+http://yj1211.work:8089/huya/11352894.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/94/6937330a080299532344c50b97fdf1_180_135.jpg?1584437199" group-title="探索", 一席YIXI
+http://al.flv.huya.com/src/1099531752696-1099531752696-86435873234616320-2199063628848-10057-A-0-1.flv?wsSecret=aacb32e031ba331cb3fb6d62378e4ddd&wsTime=62cafb72&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1009/41/62b9177d3e1bbf1c4e87eded2c216a_180_135.jpg?1448362100" group-title="一起看", Mr-傀儡
+http://yj1211.work:8089/huya/11352936.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/85/de5b80c5e76abca53a69eef08c6c02_180_135.jpg" group-title="探索", 物性立残阳
+http://al.flv.huya.com/src/1099531840882-1099531840882-86814629220581376-2199063805220-10057-A-0-1.flv?wsSecret=ab17d76ab1c44e52048f0d36b0d49b42&wsTime=62cafb72&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1033/55/6e7dd3b47ffb71811e8c02c1db9f39_180_135.jpg" group-title="一起看", 吐槽运动
+http://yj1211.work:8089/huya/11342436.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/5c/32f9f03466c469cbac8345444dd6fd_180_135.jpg?1582015720" group-title="原创", 周星驰吧
+http://yj1211.work:8089/huya/21136378.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/cd/96c1b8517d18edd1cd8593bb50d2d9_180_135.jpg?1583921520" group-title="探索", 只爱评书
+http://al.flv.huya.com/src/1099531752685-1099531752685-86435825989976064-2199063628826-10057-A-0-1.flv?wsSecret=0f9ac48590f689abb00e269385ded82f&wsTime=62cafb73&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aj10%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/fe/16729c8ce149ec3f4a60d8e5a1fac9_180_135.jpg?1618468403" group-title="一起看", 周星星梦里的朱茵
+http://yj1211.work:8089/huya/21059587.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/99/bb48210c45e062053b9520a5016e05_180_135.jpg?1448344924" group-title="一起看", D3ath-亡魂
+http://yj1211.work:8089/huya/11342437.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/1a/7cc14bdc3cc0523b0d5c2d195f2b84_180_135.jpg?1531104918" group-title="原创", 桃白柏
+http://yj1211.work:8089/huya/15958655.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/47/b19163136f58c226e6088bcfe72f9e_180_135.jpg?1551411726" group-title="原创", 乔我说动漫频道
+http://yj1211.work:8089/huya/17941367.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/d3/3ce5930beb0d9b58080ad1fb14b769_180_135.jpg?1618468898" group-title="一起看", 皮皮皮卡卡皮卡丘
+http://yj1211.work:8089/huya/21059595.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/c0/4b165266e473f83c9dfe69772ecd7b_180_135.jpg?1646814397" group-title="探索", 年月犬
+http://al.flv.huya.com/src/1099531840863-1099531840863-86814547616202752-2199063805182-10057-A-0-1.flv?wsSecret=0b3dbda98882518b5c81523c3084e4f4&wsTime=62cafb73&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1050/54/567123456cfccfc6bb604ac3fdfbde_180_135.jpg?1494319470" group-title="一起看", 热心市民高先生
+http://yj1211.work:8089/huya/11602037.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1003/d3/7bbf32d9dacbcd6290c615cdb18514_180_135.jpg?1445854501" group-title="一起看", 红茶妹妹
+http://yj1211.work:8089/huya/11336592.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1049/f7/5aab1e5c04b4d47c603c64c279ab4f_180_135.jpg" group-title="一起看", 小猪猪
+http://yj1211.work:8089/huya/11342416.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/f6/41e59ae94805ed7aba7aec4127ef6a_180_135.jpg?1606807792" group-title="一起看", Amy姐
+http://yj1211.work:8089/huya/23746486.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/02/b932e189b9a6ef3baddb8fba025f45_180_135.jpg?1649567495" group-title="原创", GC-鱼妹
+http://yj1211.work:8089/huya/27284749.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/7a/cb8973377344af6c04bd31aecadc21_180_135.jpg?1640312947" group-title="一起看", 虎牙放映厅
+http://yj1211.work:8089/huya/11602077.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/b11b405e9f2bd9d403a62334ab4f64_180_135.jpg?1606985476" group-title="一起看", 埋堆堆官方
+http://yj1211.work:8089/huya/23740156.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/31/bdeef52846f325c3650510cc8df256_180_135.jpg?1609138995" group-title="一起看", 香港刑侦实录
+http://yj1211.work:8089/huya/23865058.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1002/a6/237eada1d7dd61c10186b4ecfefa02_180_135.jpg" group-title="一起看", 汽车人
+http://yj1211.work:8089/huya/11352897.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1043/86/9dff75f0f8265fad295f04eb4eea30_180_135.jpg" group-title="一起看", 四大裁子之首
+http://yj1211.work:8089/huya/11602058.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/de/ce6a23f8d81f7fc7b1403b5eeb0f9e_180_135.jpg?1612508581" group-title="一起看", 梁非凡吃点啥
+http://yj1211.work:8089/huya/21059577.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1014/5b/19062bb3f25081b186a66f51df4ecf_180_135.jpg?1445851158" group-title="一起看", Yummy
+http://yj1211.work:8089/huya/11336587.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1052/fd/2b7cca54c637f425732ee4b7f1d75f_180_135.jpg?1453270484" group-title="一起看", 小军迷
+http://yj1211.work:8089/huya/11352909.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1032/14/1da44a75370718605270e565584a5b_180_135.jpg?1446441363" group-title="一起看", 暴走君丶阿罪
+http://yj1211.work:8089/huya/11342423.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/be/dbe05539a483f17f0d99968ffab1fc_180_135.jpg?1624273279" group-title="原创", 枫哥影视
+http://yj1211.work:8089/huya/25007621.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/b8/9ee0ba4656f6537a18155914c699c3_180_135.jpg" group-title="一起看", 我是一颗小虎牙
+http://yj1211.work:8089/huya/21059599.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/28/fd3f3771902f4326973d5b9f37b6b5_180_135.jpg?1612405609" group-title="一起看", 港剧伴你行
+http://yj1211.work:8089/huya/23903183.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1049/6d/cd3d96918d66017ae9eaa9e1eaa322_180_135.jpg?1445837265" group-title="一起看", 一只大懒虫
+http://yj1211.work:8089/huya/11279251.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1016/6e/8c4c0663da63b3eee64b4e6b7c7e8c_180_135.jpg?1462501351" group-title="一起看", -小癲
+http://yj1211.work:8089/huya/11602065.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/48/2850892eb7cb94b8fcb1e049cefd0c_180_135.jpg?1612427932" group-title="一起看", 十八里铺大当家
+http://yj1211.work:8089/huya/21059562.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/c2/47eb2295c7e5865c9d6db3cdf34cf3_180_135.jpg?1453364729" group-title="一起看", SMG吐槽担当
+http://yj1211.work:8089/huya/11352961.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/bd/e16d07a0b000d352c2966c7fc32bd8_180_135.jpg?1612508823" group-title="一起看", 大铁锅炖大大鹅
+http://yj1211.work:8089/huya/21059574.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/8e/f15bdae72ecdd23bc308c141aa0e18_180_135.jpg?1606791820" group-title="一起看", 我叫山鸡哥
+http://yj1211.work:8089/huya/23734246.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/47/ad5c72e00d9b896741a0fb367c3d8f_180_135.jpg?1606721929" group-title="一起看", 堆仔煲剧
+http://yj1211.work:8089/huya/23734176.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/eb/38800e34deecef94e029bab645eaf2_180_135.jpg?1543377468" group-title="一起看", 小蘑菇
+http://yj1211.work:8089/huya/11601981.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1048/4d/c6cd8614b1a5b6e00069edc8815fb7_180_135.jpg?1450260179" group-title="一起看", 世界格斗场
+http://yj1211.work:8089/huya/11352969.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1055/11/1f43f57787ee080f431643233542c2_180_135.jpg" group-title="一起看", 可爱的小强
+http://yj1211.work:8089/huya/11342435.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/9a/d233181cc739e2b8544c4617e08c94_180_135.jpg?1633238157" group-title="原创", 稻谷Movie
+http://yj1211.work:8089/huya/25767728.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/46/c256d706feaf1aa30c6cc97cd02b37_180_135.jpg?1618468751" group-title="一起看", 千与千寻的思考
+http://yj1211.work:8089/huya/21059592.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/d2/27d4b681b266b4cc6c73dbaddce23d_180_135.jpg" group-title="探索", 新奇好玩喵
+http://al.flv.huya.com/src/1099531752798-1099531752798-86436311321280512-2199063629052-10057-A-0-1.flv?wsSecret=37f80614efa08d17d927bcc39685d35c&wsTime=62cafb77&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/4a/bb95acf6eeb6eb17e777dde2409c03_180_135.jpg?1542692167" group-title="原创", 马桶吐槽
+http://yj1211.work:8089/huya/17089779.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/87/75bf5101b0cd4db271921b24a8d089_180_135.jpg?1583921777" group-title="探索", 生活技巧
+http://al.flv.huya.com/src/1099531752690-1099531752690-86435847464812544-2199063628836-10057-A-0-1.flv?wsSecret=e743dbd54af766cfb984147ae27d56bf&wsTime=62cafb78&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/30/1ad62a8c467cb503798dea274ab0a4_180_135.jpg" group-title="探索", 维明怀文
+http://al.flv.huya.com/src/1099531840889-1099531840889-86814659285352448-2199063805234-10057-A-0-1.flv?wsSecret=9ad67c44683053e5e7982223774708e4&wsTime=62cafb78&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/2e/e4dd11c2a4e8f0474b3ba86015854d_180_135.jpg?1586926014" group-title="原创", 老皮讲电影
+http://yj1211.work:8089/huya/16968572.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/a2/49b5cac802d4e17b52eeaab4985aeb_180_135.jpg?1612427205" group-title="一起看", 马春夏秋冬梅
+http://yj1211.work:8089/huya/21059564.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1051/1e/f208b06a5314330869f94bbc422f62_180_135.jpg?1583570515" group-title="探索", 顶级奢侈
+http://al.flv.huya.com/src/1099531752673-1099531752673-86435774450368512-2199063628802-10057-A-0-1.flv?wsSecret=c4d46dfa84198d3010bfbdd725f1bd83&wsTime=62cafb78&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1086/4b/a20ea439a14308e0c3d1c4b1f828f8_180_135.jpg" group-title="一起看", SMG开怀时刻
+http://yj1211.work:8089/huya/11352908.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/95/5b6e5161762e150933616d9be72320_180_135.jpg?1602591499" group-title="一起看", 一只梦幻小萌虎
+http://yj1211.work:8089/huya/21059556.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/ff/4d501fd0b74a749908b0f773bea9e5_180_135.jpg" group-title="一起看", 长岛冰茶-
+http://yj1211.work:8089/huya/11352884.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/38/5703a2b7be1d549b844deb46862e9c_180_135.jpg?1646812958" group-title="探索", 天地間香芒
+http://al.flv.huya.com/src/1099531840879-1099531840879-86814616335679488-2199063805214-10057-A-0-1.flv?wsSecret=35a0b2ea9d486e52576f32f469667f3b&wsTime=62cafb79&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/72/11beb61dbef2cbd49f7a144ba9b459_180_135.jpg?1612427776" group-title="一起看", 冰火岛一霸
+http://yj1211.work:8089/huya/21059563.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/68/90375584bf81b204c2fca75faf7a5e_180_135.jpg?1612508122" group-title="一起看", 喜来乐狮子头
+http://yj1211.work:8089/huya/21059580.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/c9/d1f4f9bbd9e2e0c7d13c45c3a244da_180_135.jpg?1600752578" group-title="原创", 朱一旦的枯燥生活
+http://yj1211.work:8089/huya/23330204.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1078/4c/f1042af7267bcae06c6d631b14d33f_180_135.jpg?1465667825" group-title="一起看", 小轩
+http://yj1211.work:8089/huya/11352899.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/f2/ea47234bc43029198439f15a436a7e_180_135.jpg" group-title="探索", 盡堊而美洲
+http://al.flv.huya.com/src/1099531840907-1099531840907-86814736594763776-2199063805270-10057-A-0-1.flv?wsSecret=5e5f64fddd28ff1c94e59b96904c9142&wsTime=62cafb79&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1dx%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1074/17/8ca7eb30c7ae0250313765a6e75e2d_180_135.jpg?1616059853" group-title="原创", 鹿哥电影
+http://yj1211.work:8089/huya/24396360.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/ee/82ecc29e46ab1ec2543ace4841a0bf_180_135.jpg?1445837301" group-title="一起看", 昔日女神柳清茶-
+http://yj1211.work:8089/huya/11279247.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/27/1778d887be95c7e62ec976dff1438b_180_135.jpg?1574848625" group-title="原创", 刘老师说电影
+http://yj1211.work:8089/huya/20289754.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1030/8a/505b6d646249287e634494517650eb_180_135.jpg?1446036295" group-title="一起看", 李大湿
+http://yj1211.work:8089/huya/11342417.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/9f/6614ad37065db2f7f5f5e629c3e4b6_180_135.jpg?1567319177" group-title="原创", 正经说电影
+http://yj1211.work:8089/huya/19583776.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/34/8076b3f53e0d16fc89c5fa3e9f217f_180_135.jpg" group-title="探索", 曾繼君
+http://al.flv.huya.com/src/1099531840910-1099531840910-86814749479665664-2199063805276-10057-A-0-1.flv?wsSecret=4f7ca347b2a00b96857c44b4f4c74df4&wsTime=62cafb7a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/49/70ec26564234bc06d9eb41f2fadb9c_180_135.jpg?1641536048" group-title="原创", 大葱电影
+http://yj1211.work:8089/huya/26332024.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1061/62/52475eab0e31b9da9be763f31cf93a_180_135.jpg?1447732170" group-title="一起看", 包蛋超人
+http://yj1211.work:8089/huya/11342400.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/0d/8c64adc6c7b6dcc4183a457f885d23_180_135.jpg?1512023150" group-title="原创", 宅妹
+http://yj1211.work:8089/huya/11352954.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1051/da/f7ad34d0e4f05947169c68fd202d8c_180_135.jpg?1448267842" group-title="一起看", 勞資ヽ尐爺
+http://yj1211.work:8089/huya/11342434.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/cc/92a3c96760327d1489c9ea8fba61b0_180_135.jpg?1624561810" group-title="原创", 周队长captain
+http://yj1211.work:8089/huya/22903695.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1031/88/7b633b36a92f6efb9d5375bbecaf44_180_135.jpg?1445856355" group-title="一起看", 羞涩的茄子
+http://yj1211.work:8089/huya/11336590.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/62/0faa58c0c46d34f72dcc2ca1661258_180_135.jpg?1623318737" group-title="原创", 憨憨哥说电影
+http://yj1211.work:8089/huya/24917827.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1002/7f/1e816e881a7ca2bd145888541dcf28_180_135.jpg?1463659657" group-title="一起看", 性感大妈
+http://yj1211.work:8089/huya/11602075.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/cb/78e1c68439ae8ff70f19af924bac00_180_135.jpg?1612404835" group-title="一起看", TV八哥
+http://yj1211.work:8089/huya/23863787.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/33/6a2b3f006c3fe9540d6c9277d567af_180_135.jpg?1646813097" group-title="探索", 上山鱼香
+http://al.flv.huya.com/src/1099531840877-1099531840877-86814607745744896-2199063805210-10057-A-0-1.flv?wsSecret=e0b624cfa349baebc3e4a0ffc3d3210e&wsTime=62cafb7b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1063/c4/cec137bcfb0fcd9f3e91d7d4874404_180_135.jpg" group-title="一起看", 开船老湿基
+http://yj1211.work:8089/huya/11342387.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/7c/7473021a626249846369ac829d61df_180_135.jpg?1582902752" group-title="探索", 小明爱钓鱼
+http://al.flv.huya.com/src/1199531884825-1199531884825-5308619267648782336-2399063893106-10057-A-0-1.flv?wsSecret=0011f29a85fc40d2ff5f5af0c2a10a74&wsTime=62cafb7c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/3e/386d88b787faf84b84b0941760ba20_180_135.jpg" group-title="探索", 村村就爱玩
+http://al.flv.huya.com/src/1099531752794-1099531752794-86436294141411328-2199063629044-10057-A-0-1.flv?wsSecret=91d275afda3e2f3290268f19fb335b1c&wsTime=62cafb7c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1089/81/92cc5bf8aecc78b87a17e60f881af8_180_135.jpg?1456986139" group-title="一起看", 一片青青草原
+http://yj1211.work:8089/huya/11352973.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/d4/14d682e455e66d7ebfa0c440feedde_180_135.jpg?1640588965" group-title="一起看", NCT127-在玹
+http://yj1211.work:8089/huya/637218.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/9d/ebbeecd66e292e329f15dfec2a9c47_180_135.jpg?1533029989" group-title="原创", 一口毒奶
+http://yj1211.work:8089/huya/16144261.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/5f/21461e7a28f5637f73e0b194947509_180_135.jpg?1625716550" group-title="原创", 喜仔的世界
+http://yj1211.work:8089/huya/17098448.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/39/83a56a82c04461f15d918dc055d0b4_180_135.jpg?1620961449" group-title="原创", 酱婶儿电影
+http://yj1211.work:8089/huya/24396474.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/a5/f612bbbaf490566bad19b3e6e8c38b_180_135.jpg?1552013203" group-title="探索", 虎牙小白菜
+http://al.flv.huya.com/src/633775300-633775300-2722044186512588800-1267674056-10057-A-0-1.flv?wsSecret=df54a799d8440d52a652ccc878df54ff&wsTime=62cafb7d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/47/ac3d58a2dc9c85a637708c2dfcfade_180_135.jpg?1561103334" group-title="一起看", 酒后探真言
+http://yj1211.work:8089/huya/660260.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/15/67ed8a3637bc260e06d2443d2b8560_180_135.jpg?1565100095" group-title="原创", 赵非同
+http://yj1211.work:8089/huya/19445837.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/e3/5c92d8195b93db998e38240279d019_180_135.jpg?1579318062" group-title="原创", 娘子说电影
+http://yj1211.work:8089/huya/18964209.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/2e/e4dd11c2a4e8f0474b3ba86015854d_180_135.jpg?1586926014" group-title="原创", 老皮讲电影
+http://yj1211.work:8089/huya/16968572.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/e7/1ed8ce4ed36fd1d8550abbc5badfb2_180_135.jpg" group-title="探索", 老来事業斷橋邊
+http://al.flv.huya.com/src/1099531840930-1099531840930-86814835379011584-2199063805316-10057-A-0-1.flv?wsSecret=6acc1488c32e67a5d6661373be8244fd&wsTime=62cafb7d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/75/4c3f258f471bfc2c4f144223aed192_180_135.jpg" group-title="原创", 书书漫
+http://yj1211.work:8089/huya/25683762.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/f7/bcb42ea5a760c0716472a679f905ef_180_135.jpg?1580972443" group-title="探索", 湘西老表
+http://al.flv.huya.com/src/1199529444099-1199529444099-5298136429300285440-2399059011654-10057-A-0-1.flv?wsSecret=0587d1bf840965b32b2b091352a8f955&wsTime=62cafb7e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/1f/2b6b50cd63b36080ffb8b412070e4b_180_135.jpg?1584688660" group-title="探索", 我是一颗小虎牙
+http://al.flv.huya.com/src/1099531752707-1099531752707-86435920479256576-2199063628870-10057-A-0-1.flv?wsSecret=3976084d8e4aec299557f4f2f4997ab1&wsTime=62cafb7e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/54/7ccc39badf7122bff09558e98f806d_180_135.jpg?1649836794" group-title="探索", 小武电影
+http://al.flv.huya.com/src/1279539990459-1279539990459-16899423053820198912-2559080104374-10057-A-0-1.flv?wsSecret=2db48d5ba5cc3838304d13d217baf2d9&wsTime=62cafb7e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d6/82ca96b472f125cb664aba7ccd8cdd_180_135.jpg?1604806990" group-title="原创", 皮皮猫影视
+http://yj1211.work:8089/huya/23310352.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/c2/7837a02ddcffb1daf5633c404a5588_180_135.jpg?1584958468" group-title="探索", 人间眩法师
+http://al.flv.huya.com/src/1099531752709-1099531752709-86435929069191168-2199063628874-10057-A-0-1.flv?wsSecret=44faacf4057f5d62c178763e03b78ef5&wsTime=62cafb7e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/a0/64dcb74ed6fc53977ef93493ce45a6_180_135.jpg?1597832102" group-title="探索", 娜娜Q
+http://al.flv.huya.com/src/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.flv?wsSecret=987e2caabd5d0185818a415a2532c416&wsTime=62cafb7f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/01/decc35a0df565e1d6ac9d566578b55_180_135.jpg" group-title="探索", 南非紅翅鵙白唇鹿角
+http://al.flv.huya.com/src/1099531840890-1099531840890-86814663580319744-2199063805236-10057-A-0-1.flv?wsSecret=81a28b1d837343876da1cd0170072542&wsTime=62cafb7f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/32/306c729aec796334198aa8e790f97c_180_135.jpg?1525869137" group-title="原创", 宇宙无敌韩三金
+http://yj1211.work:8089/huya/15494057.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/a1/74b528fdf98262c5e98348f48be491_180_135.jpg?1646813482" group-title="探索", 合班阿離
+http://al.flv.huya.com/src/1099531840871-1099531840871-86814581975941120-2199063805198-10057-A-0-1.flv?wsSecret=4177bfd013f69c4ac9c0be6621dbe5f7&wsTime=62cafb7f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/09/7c0ea5a6c58e187c0d0045930c50e1_180_135.jpg?1634624492" group-title="原创", 怀旧电影厅
+http://yj1211.work:8089/huya/25863244.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/b6/5bebf2bdd5415eac59a904c1dd733a_180_135.jpg?1582779973" group-title="探索", 老文的快乐生活
+http://al.flv.huya.com/src/1199531672265-1199531672265-5307706329400344576-2399063467986-10057-A-0-1.flv?wsSecret=b391262e8cd99d01f68a388669e1a58e&wsTime=62cafb80&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/8b/876e289802843fd286a0aa439102e3_180_135.jpg?1624417912" group-title="原创", 咆哮解说黑鑫
+http://yj1211.work:8089/huya/25018873.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1001/72/51f15b1a3b41d012c63f572c843b0a_180_135.jpg?1447751187" group-title="一起看", 苦瓜老姨
+http://yj1211.work:8089/huya/11342429.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/e6/921dc8124c0c9673cb61d2fc59ad1d_180_135.jpg?1606721823" group-title="一起看", 一起来埋堆
+http://yj1211.work:8089/huya/23734183.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/f7/2f7974e07af1727ed95cf234274fee_180_135.jpg?1583645626" group-title="探索", 有点意思
+http://al.flv.huya.com/src/1099531752682-1099531752682-86435813105074176-2199063628820-10057-A-0-1.flv?wsSecret=e72ad3b149f97c1f370152bf3280b941&wsTime=62cafb80&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/07/bc6dbb92c3e54a617c8abbae5c4e9d_180_135.jpg?1574323097" group-title="一起看", 渽民-NCTDREAM
+http://yj1211.work:8089/huya/660269.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/3d/a6f4f2e5fdfab7a4cdc6b89f257c77_180_135.jpg?1554876690" group-title="原创", 泡面微剧场
+http://yj1211.work:8089/huya/18368221.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/5a/f08d9362a67db128ec02bf6e9de4a8_180_135.jpg?1583571006" group-title="探索", 博士说
+http://al.flv.huya.com/src/1099531752677-1099531752677-86435791630237696-2199063628810-10057-A-0-1.flv?wsSecret=25569f0cd3ef0b4a1d3a6a32e4d913c9&wsTime=62cafb81&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/82/f7ced6c4efac26d5fdc95104fcfd4c_180_135.jpg?1629113244" group-title="原创", 小歌说电影
+http://yj1211.work:8089/huya/25443495.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1046/d8/664d645137611c78273e9d526d515f_180_135.jpg?1547017938" group-title="原创", 你的小美吖
+http://yj1211.work:8089/huya/17489431.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/92/d7013d4250d6687ccae130a45664c9_180_135.jpg?1583571311" group-title="探索", 鬼叔奇谈
+http://al.flv.huya.com/src/1099531752679-1099531752679-86435800220172288-2199063628814-10057-A-0-1.flv?wsSecret=6e876cf56190fcdc7f5e31d469e0397d&wsTime=62cafb81&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg" group-title="探索", 大漠李白
+http://al.flv.huya.com/src/1099531840937-1099531840937-86814865443782656-2199063805330-10057-A-0-1.flv?wsSecret=c1435f3a2fef3f294a3be6d5dca1fd59&wsTime=62cafb82&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/93/5434ab397846a0612e6a449e90772a_180_135.jpg?1621422133" group-title="原创", 尤里有剧
+http://yj1211.work:8089/huya/24400965.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/fb/492ee09d84c4fe858a6005307f37ce_180_135.jpg?1531496285" group-title="原创", 熊妹撩电影
+http://yj1211.work:8089/huya/15966357.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/a2/3e06c0b15fccd7229876afad43bac1_180_135.jpg?1602591689" group-title="一起看", 狂野女孩i了吗
+http://yj1211.work:8089/huya/21059559.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1051/5a/c8457e9fc7b3a001d47f7959bf2718_180_135.jpg?1581078683" group-title="探索", 乡村威哥
+http://al.flv.huya.com/src/1199528435565-1199528435565-5293804808753381376-2399056994586-10057-A-0-1.flv?wsSecret=e721733d91cbd3cc8386aec122237ebc&wsTime=62cafb82&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Az16%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/c6/0f4a0467976b2c3352ca5f03ee2964_180_135.jpg" group-title="探索", 噲即高復低
+http://al.flv.huya.com/src/1099531840892-1099531840892-86814672170254336-2199063805240-10057-A-0-1.flv?wsSecret=7a812c7448d0fe861993fa9829c1eb03&wsTime=62cafb82&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/d0/c0ec48cecc97b9769e173268f9f3b0_180_135.jpg?1640589120" group-title="一起看", NCT127-道英
+http://yj1211.work:8089/huya/637216.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/fc/b1abee4e2a5c535fea3e8c4a5b5794_180_135.jpg?1640589347" group-title="一起看", NCT127-悠太
+http://yj1211.work:8089/huya/637219.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/f4/f1d1eada3cdcb265e3652c98d03462_180_135.jpg?1640589215" group-title="一起看", NCT127-泰一
+http://yj1211.work:8089/huya/637217.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1020/4a/86d682413ad4dcced57936c5358cd0_180_135.jpg?1447731638" group-title="一起看", 陌离-小欣
+http://yj1211.work:8089/huya/11342397.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1024/c8/ca59849068054560d43d382f83a05c_180_135.jpg" group-title="一起看", SMG胖月老
+http://yj1211.work:8089/huya/11352947.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/01/38afccc29b456848e08bdcfcc594ef_180_135.jpg?1542876356" group-title="一起看", 阿森木木木
+http://yj1211.work:8089/huya/11601971.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/9f/7e383d330b1caa97126ae2f3eca77d_180_135.jpg" group-title="探索", 螺丝也可爱
+http://al.flv.huya.com/src/1099531752793-1099531752793-86436289846444032-2199063629042-10057-A-0-1.flv?wsSecret=da010239ca93d02e5e2cb3bab0a6d614&wsTime=62cafb83&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1088/be/ffa08af7dfbae15141bad7f97936fd_180_135.jpg?1446129846" group-title="一起看", 威猛先生
+http://yj1211.work:8089/huya/11342420.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/21/cf70c89d704f5ad1f7f45640117e18_180_135.jpg?1618468802" group-title="一起看", 里昂保护的玛蒂达
+http://yj1211.work:8089/huya/21059594.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1075/63/8bfa72f935a017b36126e801102f65_180_135.jpg?1477021309" group-title="一起看", 阿飞
+http://yj1211.work:8089/huya/11352934.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/97/8a9486d531c1a9320af5f1e57f6834_180_135.jpg?1607930281" group-title="探索", 壹车
+http://al.flv.huya.com/src/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.flv?wsSecret=154b5efbbcc964edbcf50b105cab85ce&wsTime=62cafb85&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1024/a7/84ac841cd1ecbd49e77c193b3a4af8_180_135.jpg?1470723433" group-title="一起看", 主播黑猫
+http://yj1211.work:8089/huya/11352896.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/06/c7e81adf1850e57537fe7ca8e6c819_180_135.jpg?1615863355" group-title="一起看", 经典影艺
+http://yj1211.work:8089/huya/24380318.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/45/5322b252689d89c80f5ddc0f9a664d_180_135.jpg" group-title="一起看", 铁血真汉子
+http://yj1211.work:8089/huya/11342395.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1013/0e/fb3b9020d01d2da977de9cdf67c00d_180_135.jpg?1462501139" group-title="一起看", 这很不同
+http://yj1211.work:8089/huya/11602067.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/81/4c9262cf723132e54fee1d089ce514_180_135.jpg?1602591145" group-title="一起看", 艾薇宝贝de宝贝
+http://yj1211.work:8089/huya/21059554.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/e4/ac7c7b5e04204d0b928aef7bdf61ec_180_135.jpg?1612246711" group-title="一起看", TVB追剧小能手
+http://yj1211.work:8089/huya/23865179.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1032/ec/67260a4154e056eeff0934114422a7_180_135.jpg" group-title="一起看", 牙缝多了根青菜
+http://yj1211.work:8089/huya/11352877.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/24/4901b73089f3c0362c90cd11e8e96b_180_135.jpg?1445838176" group-title="一起看", 持枪者-土豆哥
+http://yj1211.work:8089/huya/11336578.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/f5/a9d9a0bba94bd7017fec7983d65eac_180_135.jpg?1618467853" group-title="一起看", 鲨手不太冷的影迷
+http://yj1211.work:8089/huya/21059586.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1017/34/a697d039bfda3b6595e0855968dc1f_180_135.jpg?1450925863" group-title="一起看", Fighter
+http://yj1211.work:8089/huya/11352949.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
 http://yj1211.work:8089/huya/11342412.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/af/ef938ca746ec8b22a1864e4c452dd2_180_135.jpg?1656776690" group-title="原创", Stone丶黛黛
-http://yj1211.work:8089/huya/26678387.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="一起看", TVB官方
-http://yj1211.work:8089/huya/23735126.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/0c/2733b3be7d143b51c6335d08e2aa7b_180_135.jpg?1656055570" group-title="原创", DD-嘉嘉
-http://yj1211.work:8089/huya/25730431.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/a0/ebdc1388ad688611835bb036aec0b0_180_135.jpg?1655680115" group-title="原创", 傲辰-影子
-http://yj1211.work:8089/huya/631396.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/ff/f7aab657170537f873be7539f4c9ed_180_135.jpg?1650599106" group-title="一起看", 沉默的孤狼啊
-http://yj1211.work:8089/huya/21059598.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/86/0ca5441a80ff7731c2afe73b8b6f76_180_135.jpg?1612424267" group-title="一起看", 包租婆不停水
+http://yj1211.work:8089/huya/21059568.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/42/28f36f4d0767fb6efc42c1c1940e1c_180_135.jpg?1561358214" group-title="原创", 阿斗归来了
 http://yj1211.work:8089/huya/13303478.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381" group-title="原创", 陈翔六点半
+http://yj1211.work:8089/huya/11274154.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ae/c1d9d5bd965f0443396e4e00392765_180_135.jpg?1554088080" group-title="一起看", 虎牙观影团
+http://yj1211.work:8089/huya/880219.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/50/d7c64fef5ff9694b18d2771c15fe91_180_135.jpg?1649154155" group-title="原创", 微竞-笑笑大兔兔
+http://yj1211.work:8089/huya/26835465.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1042/89/580b6c9c34fca28d10c79cdedde8ee_180_135.jpg?1523354005" group-title="原创", 老电影故事
+http://yj1211.work:8089/huya/15267139.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/11/cafdca9ac888f737eb8a00730c12a8_180_135.jpg?1646811192" group-title="探索", 仙人万戶侯
+http://al.flv.huya.com/src/1099531840939-1099531840939-86814874033717248-2199063805334-10057-A-0-1.flv?wsSecret=b609f13b7e6d8c62b1c31b1f1e21a364&wsTime=62cafb87&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anc2%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/e6/d6c570407c0716e88b1a74c880d055_180_135.jpg?1655920508" group-title="原创", 微竞-猪酱阿
+http://yj1211.work:8089/huya/14901956.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1027/86/3816fff1eef0e4c346fc840b627740_180_135.jpg" group-title="一起看", SMG最强大脑
+http://yj1211.work:8089/huya/11352914.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/c0/5825a93a6cf00101e016a45f90bda0_180_135.jpg?1630046933" group-title="探索", 百虎园-大猫频道
+http://al.flv.huya.com/src/0-0-0-2399123068838-10057-A-0-1.flv?wsSecret=e79ae3bdd36e00be6477303ecce200b3&wsTime=62cafb88&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/38/3cd36640a9207b546681d5252c579c_180_135.jpg?1554700491" group-title="原创", 比尔电影
+http://yj1211.work:8089/huya/17227870.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/87/6c166e34f1538729f616cd40b4add0_180_135.jpg?1589704718" group-title="原创", 微竞-娇娇
+http://yj1211.work:8089/huya/21549743.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/83/b12de2bcc442c817145a0b7a09bf2c_180_135.jpg?1656730384" group-title="原创", 小番薯呀-
+http://yj1211.work:8089/huya/27386138.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/fb/1cc92055ac73d1119fc7c4379dea36_180_135.jpg" group-title="探索", 山东北路大喬
+http://al.flv.huya.com/src/1099531840936-1099531840936-86814861148815360-2199063805328-10057-A-0-1.flv?wsSecret=0174721764ca55377ba6416bb84b2449&wsTime=62cafb88&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aj9%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/5f/de9a652c95be65497a5df86c8e3b0e_180_135.jpg?1649781948" group-title="原创", 浅浅
+http://yj1211.work:8089/huya/18554912.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/58/4018f488b843a50819fc41ca7e9647_180_135.jpg?1607753977" group-title="原创", 力哥影視
 http://yj1211.work:8089/huya/23419131.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/86/0ba082cb0dc036de085486f2c1e247_180_135.jpg" group-title="探索", 詩酒七貴游
-http://al.flv.huya.com/src/1099531840887-1099531840887-86814650695417856-2199063805230-10057-A-0-1.flv?wsSecret=43075a93e6c1a98822e33fb1c4c79701&wsTime=62caf7f5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aj9%3B&fs=bgct&t=103&ratio=2000
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg?1586861841" group-title="一起看", 虎牙八点档
-http://yj1211.work:8089/huya/880261.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/2d/d2661ebff6e5569998074adef29b57_180_135.jpg?1630696470" group-title="原创", 婧婧丶
-http://yj1211.work:8089/huya/618917.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/6e/39676d88e04e209d1aa2126582fd3d_180_135.jpg?1566179946" group-title="一起看", 野原新之助-
-http://yj1211.work:8089/huya/11352970.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/d6/6a8b9fdff91400bb33bb9530a16c39_180_135.jpg?1615364346" group-title="原创", SJ-咩咩
-http://yj1211.work:8089/huya/631394.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/56/16ee7ec503bfbef59944617a8f827a_180_135.jpg?1655397246" group-title="原创", 渝华-皮蛋【十三】
-http://yj1211.work:8089/huya/26599279.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/89/11cce4da27cfacf33a8476d8972283_180_135.jpg" group-title="一起看", 安逗和黑仔
-http://yj1211.work:8089/huya/11342424.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/2e/6566e3e908ec0ae09387e3ab594ba2_180_135.jpg?1446441422" group-title="一起看", 核桃姐姐
-http://yj1211.work:8089/huya/11342390.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="一起看", 堆堆港剧日常
-http://yj1211.work:8089/huya/23903123.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1057/46/63d69566121803c46709b29246b14f_180_135.jpg?1450856858" group-title="一起看", 加班狗
-http://yj1211.work:8089/huya/11352891.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1070/30/1ad62a8c467cb503798dea274ab0a4_180_135.jpg" group-title="探索", 维明怀文
-http://al.flv.huya.com/src/1099531840889-1099531840889-86814659285352448-2199063805234-10057-A-0-1.flv?wsSecret=10d756619f5fdcc532b9045fc338574b&wsTime=62caf7f5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/99/1a4aaa42da1f0591afb07eefdf9a08_180_135.jpg?1655816750" group-title="原创", 包子雨
+http://yj1211.work:8089/huya/617322.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/1e/451b5943ddd449d2ae80e2bf6df1fc_180_135.jpg?1581159512" group-title="探索", 灵溪庄主
+http://al.flv.huya.com/src/1279519126936-1279519126936-16809814904855855104-2559038377328-10057-A-0-1.flv?wsSecret=e0bb7d5479d01e212acc16fd7d9dcfd2&wsTime=62cafb89&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1073/d6/767bd0c09aff2dbcb713e247b3cdd0_180_135.jpg?1489482086" group-title="一起看", 脑壳不太好
+http://yj1211.work:8089/huya/11602042.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/81/2dc2f632945c72c491ec7f951ab70a_180_135.jpg?1646824974" group-title="原创", DD-娜娜
+http://yj1211.work:8089/huya/26590882.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/18/ccf5cac828cbb2fdce3a8af4f47357_180_135.jpg?1537946529" group-title="原创", 了不起的乌贼君
+http://yj1211.work:8089/huya/16604522.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/aa/df81a05ba13ffdeab8524b36077bbd_180_135.jpg?1630046549" group-title="探索", 追鸭大虎队-大猫频道
+http://al.flv.huya.com/src/0-0-0-2399123061398-10057-A-0-1.flv?wsSecret=b56a33c12686585e416a5f44576e1323&wsTime=62cafb8a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx91%3B&fs=bgct&t=103
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1029/18/5d04dbcf6ab709f749023603de2b86_180_135.jpg" group-title="探索", 千百红油
-http://al.flv.huya.com/src/1099531840884-1099531840884-86814637810515968-2199063805224-10057-A-0-1.flv?wsSecret=720b709104a47f045d7de1efcf5056b0&wsTime=62caf7f5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/70/90dcf84517b4239b242e109d6fa28c_180_135.jpg?0" group-title="一起看", 荒野达人
-http://yj1211.work:8089/huya/11352975.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/3a/51204e1845d990862a5b96b45e672d_180_135.jpg?1606723330" group-title="一起看", 我才是打工人
-http://yj1211.work:8089/huya/23860039.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1039/15/8fa37019a60515490eaeab2ba329c8_180_135.jpg?1449121515" group-title="一起看", 老司机
-http://yj1211.work:8089/huya/11352946.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/28/eb10b25db1f1a70fcb79da1403ab72_180_135.jpg?1556020041" group-title="原创", 亮哥讲电影
-http://yj1211.work:8089/huya/16144175.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="一起看", 偷心大盗ヽ龍宝
-http://yj1211.work:8089/huya/11342386.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/2e/63af68312cfe252c69328448baaf7f_180_135.jpg?1559260536" group-title="原创", 斌哥漫说
-http://yj1211.work:8089/huya/18632116.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/7d/dadedd6e597a39a42aa194849bad40_180_135.jpg?1585195897" group-title="原创", 非凡武林
-http://yj1211.work:8089/huya/21674665.m3u8
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1065/1e/1261519283866330b97e12fb4e7526_180_135.jpg?1449121445" group-title="一起看", 萌新司机
-http://yj1211.work:8089/huya/11352881.m3u8
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/3e/386d88b787faf84b84b0941760ba20_180_135.jpg" group-title="探索", 村村就爱玩
-http://al.flv.huya.com/src/1099531752794-1099531752794-86436294141411328-2199063629044-10057-A-0-1.flv?wsSecret=d839466d49afa54282e250d83d6ef03c&wsTime=62caf7f6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+http://al.flv.huya.com/src/1099531840884-1099531840884-86814637810515968-2199063805224-10057-A-0-1.flv?wsSecret=a78cc69c4d6562f232444328d5e0cf5d&wsTime=62cafb8a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/2b/77ff4b773650b73e383363c3035747_180_135.jpg?1655884098" group-title="原创", 星球-冰墩墩
+http://yj1211.work:8089/huya/27128063.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/20/9ac36a840b4880ff6b08724732a7cf_180_135.jpg?1606722348" group-title="原创", 嫩模下厨房
+http://yj1211.work:8089/huya/23735181.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/21/e9d7c169b4b4b668db4b6834130468_180_135.jpg" group-title="探索", 北辰西桥北亚索
+http://al.flv.huya.com/src/1099531840891-1099531840891-86814667875287040-2199063805238-10057-A-0-1.flv?wsSecret=8b87a23eb7d56965949e09d6bf9e0349&wsTime=62cafb8a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahf3%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1032/74/8ae54630c12ddb91a6a787064f2961_180_135.jpg?1636898950" group-title="原创", 爆裂电影
+http://yj1211.work:8089/huya/25013725.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/fc/5d761ff8180e59cf595394ad6ecd8e_180_135.jpg?1538210518" group-title="原创", Sir说电影
+http://yj1211.work:8089/huya/16626185.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/a1/6ed0639048c730a7cbfca75ac0caee_180_135.jpg?1606718755" group-title="一起看", 我是靓宝
+http://yj1211.work:8089/huya/23728660.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/f2/141f32562e62915d8995f8bbe4d68c_180_135.jpg?1647138657" group-title="原创", 政宗君DE情敌
+http://yj1211.work:8089/huya/26704262.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/86/6ac110226bf9334e49cc18d7d5f08c_180_135.jpg" group-title="探索", 最美不过保时捷
+http://al.flv.huya.com/src/1099531840888-1099531840888-86814654990385152-2199063805232-10057-A-0-1.flv?wsSecret=745fd11788922e301d7f688c36f38fed&wsTime=62cafb8b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/c0/e47d4d01d80a49945c938cfba00f4c_180_135.jpg?1612405556" group-title="一起看", 小喇叭佩囍
+http://yj1211.work:8089/huya/23863778.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/06/a32fd6a4c9cbb99ef9a3fa0b9dd5bc_180_135.jpg?1551065330" group-title="原创", 我是一颗小虎牙
+http://yj1211.work:8089/huya/17904870.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/9e/e463be76531d74ab2e9336d15958c0_180_135.jpg?1583216680" group-title="探索", 维思维
+http://al.flv.huya.com/src/1099531752664-1099531752664-86435735795662848-2199063628784-10057-A-0-1.flv?wsSecret=ee374ad6650cd6856bc845306d438773&wsTime=62cafb8b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/72/6ef0c6ccdc6cb0dfca4869b1b13faa_180_135.jpg?1616062489" group-title="原创", 东方先生i
+http://yj1211.work:8089/huya/24396323.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/4a/a34083a43cdb46864930a0e958be2b_180_135.jpg?1656735899" group-title="原创", 微竞-小也baby
 http://yj1211.work:8089/huya/795142.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="一起看", 鯎爺
+http://yj1211.work:8089/huya/11352944.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="一起看", 7喜先生
+http://yj1211.work:8089/huya/11342421.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1032/bd/4e49c317e1b9ff2b0bef914f9309a8_180_135.jpg?1567583132" group-title="原创", 顾九撩电影
+http://yj1211.work:8089/huya/16422212.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/c6/1219552ecdbfa3e8fefec5605de3bf_180_135.jpg?1625682800" group-title="原创", SJ-倾甜
+http://yj1211.work:8089/huya/22972199.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/ff/f7aab657170537f873be7539f4c9ed_180_135.jpg?1650599106" group-title="一起看", 沉默的孤狼啊
+http://yj1211.work:8089/huya/21059598.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/e0/108e717e5d0d51763a341878b1352a_180_135.jpg?1643008391" group-title="探索", 銀河少女-
+http://al.flv.huya.com/src/1099531840843-1099531840843-86814461716856832-2199063805142-10057-A-0-1.flv?wsSecret=10a919f03ce20d8b6c9e124d58273103&wsTime=62cafb8c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/6e/39676d88e04e209d1aa2126582fd3d_180_135.jpg?1566179946" group-title="一起看", 野原新之助-
+http://yj1211.work:8089/huya/11352970.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="一起看", 小木子先生丶
+http://yj1211.work:8089/huya/11342396.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1088/db/b80b4bf94883fbe9c02e9430dc46b5_180_135.jpg" group-title="原创", 老炮说电影
+http://yj1211.work:8089/huya/15454716.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/0c/2733b3be7d143b51c6335d08e2aa7b_180_135.jpg?1656055570" group-title="原创", DD-嘉嘉
+http://yj1211.work:8089/huya/25730431.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg?1445851392" group-title="一起看", 武林萌主唐小姐
+http://yj1211.work:8089/huya/11336726.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/d6/6a8b9fdff91400bb33bb9530a16c39_180_135.jpg?1615364346" group-title="原创", SJ-咩咩
+http://yj1211.work:8089/huya/631394.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/2d/d2661ebff6e5569998074adef29b57_180_135.jpg?1630696470" group-title="原创", 婧婧丶
+http://yj1211.work:8089/huya/618917.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/2b/1e4fa172491920d69d80976e02cd47_180_135.jpg" group-title="一起看", 瞬间爆炸
+http://yj1211.work:8089/huya/11352960.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/a0/93b0c606e6c811ada36ad4dc70e50b_180_135.jpg?1646811012" group-title="探索", 惡紫之奪氈酒
+http://al.flv.huya.com/src/1099531840942-1099531840942-86814886918619136-2199063805340-10057-A-0-1.flv?wsSecret=65aa9128886d3fd93d44e8991371f8a2&wsTime=62cafb8d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx92%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/84/9bd3e28322d33b369ccac9362da065_180_135.jpg?1621948916" group-title="原创", EZQ影视
+http://yj1211.work:8089/huya/24396353.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/86/f826780a41885b6adc20640dec5ddf_180_135.jpg?1620958326" group-title="原创", 余小二【柚子】824
+http://yj1211.work:8089/huya/10279885.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/6c/cad10d28e3d5c82a873f7f2ba5cfd2_180_135.jpg?1616061592" group-title="原创", 小东北侃大片
+http://yj1211.work:8089/huya/23110321.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/a7/07f9512d16f648526ecf9dd2f86c82_180_135.jpg?1641391023" group-title="原创", DD-柠檬
+http://yj1211.work:8089/huya/25276867.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/88/7425535c18671318b7ef8f56ac3397_180_135.jpg?1628240758" group-title="原创", 小羊观影记录
+http://yj1211.work:8089/huya/25363475.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/d1/6985774680806374e0774a4e87c1b9_180_135.jpg?1657222686" group-title="原创", 星球-繁星星
+http://yj1211.work:8089/huya/27312838.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/65/4372cf68bda0e3d3e7661c8279e0b1_180_135.jpg" group-title="探索", 良奉白豆
+http://al.flv.huya.com/src/1099531840926-1099531840926-86814818199142400-2199063805308-10057-A-0-1.flv?wsSecret=958bffd9b286285b9a8a20d47819b8a8&wsTime=62cafb8e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/7c/ca158824fb83add51f431844c171ae_180_135.jpg?1643010635" group-title="探索", 宇宙摸魚人
+http://al.flv.huya.com/src/1099531840844-1099531840844-86814466011824128-2199063805144-10057-A-0-1.flv?wsSecret=bbc4dd606a46eb38cded9a3c67f23d89&wsTime=62cafb8e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/0a/f7de0c53d9081829a52462b2c76751_180_135.jpg?1600667175" group-title="原创", 小杨说电影
+http://yj1211.work:8089/huya/23338162.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/fc/6792e9482e508a8d4238edf1322e40_180_135.jpg?1630047335" group-title="探索", 虎啸山林-大猫频道
+http://al.flv.huya.com/src/0-0-0-2399123069416-10057-A-0-1.flv?wsSecret=6fc90666b953a301de7b760bc82feb7e&wsTime=62cafb8f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/83/32cfab56e066a3ea39e5947cf9762b_180_135.jpg?1646813047" group-title="探索", 薔薇六
+http://al.flv.huya.com/src/1099531840878-1099531840878-86814612040712192-2199063805212-10057-A-0-1.flv?wsSecret=e83ceb692e98abef5962d94e5f9783b9&wsTime=62cafb8f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/5b/c20b8a4c5554095060dcbf15939298_180_135.jpg?1612247012" group-title="一起看", 为所欲为的墨镜哥
+http://yj1211.work:8089/huya/23865161.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/c0/e47d4d01d80a49945c938cfba00f4c_180_135.jpg?1612405556" group-title="一起看", 小喇叭佩囍
+http://yj1211.work:8089/huya/23863778.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/c5/c9a096c81628528d0773866f0d8ab9_180_135.jpg" group-title="探索", 池邊苏爾
+http://al.flv.huya.com/src/1099531840898-1099531840898-86814697940058112-2199063805252-10057-A-0-1.flv?wsSecret=27e313888eb622e013f7945ef9012c84&wsTime=62cafb8f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/dc/220aa819b2f3237d62bb66a75a0a43_180_135.jpg?1531813967" group-title="原创", 扁豆看电影
+http://yj1211.work:8089/huya/16028551.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/a6/4c2420c6b530ed792f5ffcc7970735_180_135.jpg?1558062636" group-title="原创", 电影狂人A
+http://yj1211.work:8089/huya/18715610.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/23/5801907dbf15423c8aec487df1fca1_180_135.jpg?1651451536" group-title="原创", 灯泡妹妹
+http://yj1211.work:8089/huya/610617.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/7e/3d16740028b3a9a7338f4d70d8859d_180_135.jpg?1633529924" group-title="原创", 海哥电影
+http://yj1211.work:8089/huya/25789589.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1080/29/688e85c4509728831c578c7517e0f7_180_135.jpg?1447838636" group-title="一起看", 痞子帅叔叔
+http://yj1211.work:8089/huya/11342433.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/7c/7473021a626249846369ac829d61df_180_135.jpg?1582902752" group-title="探索", 小明爱钓鱼
+http://al.flv.huya.com/src/1199531884825-1199531884825-5308619267648782336-2399063893106-10057-A-0-1.flv?wsSecret=0011f29a85fc40d2ff5f5af0c2a10a74&wsTime=62cafb7c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg?1586044444" group-title="原创", 狗哥吃火锅
+http://yj1211.work:8089/huya/17269326.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/0d/6c7e82088286183897130e6a278f9b_180_135.jpg?1567345832" group-title="原创", 左左说电影
+http://yj1211.work:8089/huya/25027708.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/8a/02a5aad8688aa4db2f9200af85536a_180_135.jpg?1641735841" group-title="原创", 吴-依依
+http://yj1211.work:8089/huya/118524.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1048/7c/91edc505bc2b8068ae1f0ba822d7a9_180_135.jpg?1464061479" group-title="一起看", -懒猪
+http://yj1211.work:8089/huya/11342393.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/af/f7e0df13ba7441809a8b515847711a_180_135.jpg?1622590300" group-title="原创", 凤武
+http://yj1211.work:8089/huya/17917712.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1040/61/9e8348d60b86f6391add9746a0fe0e_180_135.jpg" group-title="一起看", 种瓜得弟弟
+http://yj1211.work:8089/huya/11352872.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/9c/337103d63b586611eb9552e51bb4ba_180_135.jpg?1630044839" group-title="探索", 小虎趴趴亭-大猫频道
+http://al.flv.huya.com/src/0-0-0-2399123322746-10057-A-0-1.flv?wsSecret=a7076a81442a2c0acbf2e99b4e48148d&wsTime=62cafb91&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/d3/67ed7824da158cb7933680f39924c1_180_135.jpg" group-title="探索", 在星侵古道
+http://al.flv.huya.com/src/1099531840896-1099531840896-86814689350123520-2199063805248-10057-A-0-1.flv?wsSecret=8d70b428f5301cb77b463c06227220e4&wsTime=62cafb91&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahf3%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/6b/a8fcf7f5061c8e09bb20fb440b1895_180_135.jpg?1649567922" group-title="探索", 德云贝贝
+http://al.flv.huya.com/src/2196391103-2196391103-9433427956610367488-4392905662-10057-A-0-1.flv?wsSecret=1bc9e5ee8c767e759ba4944bb852a79c&wsTime=62cafb91&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&t=103&ratio=4000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/b4/1e5a4c5b6414bd00fff9fb91de4f8a_180_135.jpg?1561458463" group-title="一起看", 少女时代-泰妍
+http://yj1211.work:8089/huya/660220.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/6e/66701eb3fad7965cf67999cb653681_180_135.jpg?1552442180" group-title="一起看", yao不能停
+http://yj1211.work:8089/huya/11601980.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/ff/095eccde0dde8aa65cf433d55c0d0c_180_135.jpg?1627097110" group-title="原创", 歪嘴说电影
+http://yj1211.work:8089/huya/25261589.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg?1586861841" group-title="一起看", 虎牙八点档
+http://yj1211.work:8089/huya/880261.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/46/1a81c724093e8cca545948a6605199_180_135.jpg?1447838576" group-title="一起看", 领带哥
+http://yj1211.work:8089/huya/11342430.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/8f/3640f585497095d3fc46272ce8edf6_180_135.jpg?1653277608" group-title="原创", SG-甜橙Q
+http://yj1211.work:8089/huya/25782683.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1041/7d/9207d1a3ef105d6a498e4543887427_180_135.jpg" group-title="一起看", 我是詹密
+http://yj1211.work:8089/huya/11342439.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/fa/ad0b7604a5f4fa929147ded8540b73_180_135.jpg" group-title="探索", 农村雨里浪
+http://al.flv.huya.com/src/1199529517699-1199529517699-5298452538893271040-2399059158854-10057-A-0-1.flv?wsSecret=f086be341ca6e2b82117d33ae65d11c5&wsTime=62cafb92&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1035/ad/280f7ff49791a495327039fb1a436e_180_135.jpg?1462501270" group-title="探索", 摄氏零度
+http://al.flv.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.flv?wsSecret=fb3e8385a182d43da998f114f6270e5b&wsTime=62cafb8f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/24/4b484ab26497fa9309a7c78715217c_180_135.jpg?1522311669" group-title="原创", 科幻梦工场
+http://yj1211.work:8089/huya/15152155.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1098/42/53e820298f3c86a036422e195bc9eb_180_135.jpg?1446036001" group-title="一起看", 鱼塘塘主张年年
+http://yj1211.work:8089/huya/11342384.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825" group-title="一起看", 虎牙影院
+http://yj1211.work:8089/huya/11601968.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1050/f0/d2bea97c07b5f664c9b344e648db6d_180_135.jpg" group-title="一起看", 杀马特死神
+http://yj1211.work:8089/huya/11352875.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1057/b1/86411769a7594adda1e6c43572dffd_180_135.jpg" group-title="一起看", 不发威当我Kitty
+http://yj1211.work:8089/huya/11342403.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/84/2967838509e51554e638e9b3a52dd4_180_135.jpg?1646813801" group-title="探索", 迢递羹瓜祭
+http://al.flv.huya.com/src/1099531840866-1099531840866-86814560501104640-2199063805188-10057-A-0-1.flv?wsSecret=9ccf5d4c16a893b912c0c258076f6f0d&wsTime=62cafb93&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg?1517472689" group-title="原创", 电影最TOP
+http://yj1211.work:8089/huya/11774959.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1009/59/7da5556311d997e6eda05c345dcd65_180_135.jpg" group-title="一起看", 小亮亮
+http://yj1211.work:8089/huya/11342432.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1056/80/de7183f55ef6a9b75f188c0317658b_180_135.jpg?1550222227" group-title="原创", 影音炫客
+http://yj1211.work:8089/huya/17811579.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/b6/a8b1c8dd004e9b08880893401bb777_180_135.jpg?1656033388" group-title="原创", DD-菜萌
+http://yj1211.work:8089/huya/25154601.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/ca/1eaca36d155e7436c403216897a73f_180_135.jpg?1540887593" group-title="原创", 南西视频
+http://yj1211.work:8089/huya/16913382.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/e7/0bc29ecc4aab474233467836e78539_180_135.jpg" group-title="探索", 御所田南通
+http://al.flv.huya.com/src/1099531840853-1099531840853-86814504666529792-2199063805162-10057-A-0-1.flv?wsSecret=eb00d83a1ef7bc5081f5e25eac66ac19&wsTime=62cafb94&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/e7/973a4388a3a04c8b0d140b88dd6d92_180_135.jpg" group-title="一起看", 心疼得抱住胖胖的自己
+http://yj1211.work:8089/huya/11342425.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/83/38500e4fabf549631a3e700142ee47_180_135.jpg?1634975056" group-title="原创", 海龙动漫
+http://yj1211.work:8089/huya/25886059.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1052/e5/c60285f2445730c6e17bad2eefe532_180_135.jpg" group-title="一起看", 傻妞
+http://yj1211.work:8089/huya/11342426.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1012/f5/b6e246fc050f005a7eb50db0ec37b5_180_135.jpg?1448361051" group-title="一起看", 會唱歌的小野貓
+http://yj1211.work:8089/huya/11352871.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/1e/0bcedc77286612bd55f7ab4c26913f_180_135.jpg?1542876566" group-title="一起看", 凌莲
+http://yj1211.work:8089/huya/11602086.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1036/eb/17f80ff8f9851ee417b1fc688f6656_180_135.jpg?1494319827" group-title="一起看", 全优少年
+http://yj1211.work:8089/huya/11602081.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/e7/d4f17fe8278aa00c302295e86756bf_180_135.jpg" group-title="一起看", 昵称违规-QQFbPxwM1A
+http://yj1211.work:8089/huya/11352958.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/7f/0f0e271b0c32cf357d4237fc69a740_180_135.jpg?1582550174" group-title="探索", 湖南龙弟
+http://al.flv.huya.com/src/1199531339440-1199531339440-5306276856910053376-2399062802336-10057-A-0-1.flv?wsSecret=476482a4a1592b1ff367483c4b4e18d4&wsTime=62cafb95&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ax42%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="一起看", 偷心大盗ヽ龍宝
+http://yj1211.work:8089/huya/11342386.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1087/94/d718f164cbdab50db6d8c07d594a57_180_135.jpg?1449487171" group-title="一起看", 柯冉冉
+http://yj1211.work:8089/huya/11352874.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/5c/ddd1fc1b67a9a7ef7f757c37493588_180_135.jpg?1633943282" group-title="原创", 大鱼爱路飞
+http://yj1211.work:8089/huya/25818873.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/b1/bc0c715b07d3ef5936a35d6b350ea7_180_135.jpg?1646813217" group-title="探索", 如何雨燕
+http://al.flv.huya.com/src/1099531840875-1099531840875-86814599155810304-2199063805206-10057-A-0-1.flv?wsSecret=3886e3ecd534b219ffcf324ba0e96342&wsTime=62cafb95&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An4%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1057/46/63d69566121803c46709b29246b14f_180_135.jpg?1450856858" group-title="一起看", 加班狗
+http://yj1211.work:8089/huya/11352891.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/d4/6588183cdc26e2744d157ed403a293_180_135.jpg?1606807310" group-title="一起看", 普通司机小马
+http://yj1211.work:8089/huya/23749096.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/02/40e3b64adc13c06ed1f1ca693ebca7_180_135.jpg?1554865029" group-title="原创", 疯狂解说家
+http://yj1211.work:8089/huya/18366196.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1011/45/c66df9487a156d5561a0b2a16bd7fe_180_135.jpg" group-title="一起看", 初心
+http://yj1211.work:8089/huya/11352941.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1000/3a/51204e1845d990862a5b96b45e672d_180_135.jpg?1606723330" group-title="一起看", 我才是打工人
+http://yj1211.work:8089/huya/23860039.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/7d/dadedd6e597a39a42aa194849bad40_180_135.jpg?1585195897" group-title="原创", 非凡武林
+http://yj1211.work:8089/huya/21674665.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/a3/49046f230ebb3fefd0868182de514d_180_135.jpg" group-title="探索", 艾莉
+http://al.flv.huya.com/src/1099531752622-1099531752622-86435555407036416-2199063628700-10057-A-0-1.flv?wsSecret=bb62d1b4569bd1eb7ceb1aafb05034db&wsTime=62cafb96&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/56/16ee7ec503bfbef59944617a8f827a_180_135.jpg?1655397246" group-title="原创", 渝华-皮蛋【十三】
+http://yj1211.work:8089/huya/26599279.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/50/1bca52baf8f36614764fb8c50cd169_180_135.jpg?1628243114" group-title="原创", 神奇书包
+http://yj1211.work:8089/huya/25368617.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1042/0e/356fe2b69229b3b6e59517597aaa75_180_135.jpg?1446129774" group-title="一起看", 裸奔的蜗牛╮
+http://yj1211.work:8089/huya/11342418.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/2e/6566e3e908ec0ae09387e3ab594ba2_180_135.jpg?1446441422" group-title="一起看", 核桃姐姐
+http://yj1211.work:8089/huya/11342390.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/2e/63af68312cfe252c69328448baaf7f_180_135.jpg?1559260536" group-title="原创", 斌哥漫说
+http://yj1211.work:8089/huya/18632116.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/b7/ff3a2c501761052ae710fbb4f42a56_180_135.jpg?1630046857" group-title="探索", 猛虎世界-大猫频道
+http://al.flv.huya.com/src/0-0-0-2399123071448-10057-A-0-1.flv?wsSecret=037c6ede1e1719fc3d93d691ab85de49&wsTime=62cafb97&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx6%3B&fs=bgct&t=103
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/28/eb10b25db1f1a70fcb79da1403ab72_180_135.jpg?1556020041" group-title="原创", 亮哥讲电影
+http://yj1211.work:8089/huya/16144175.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/5e/78f08eff3c9c51fbdf695431b9b1d4_180_135.jpg?1569319588" group-title="原创", 止戈电影
+http://yj1211.work:8089/huya/19863777.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1036/51/e98a4f59030efe8821f4528ce5f218_180_135.jpg?1643016550" group-title="探索", 机动战士驾驶科目3
+http://al.flv.huya.com/src/1099531840845-1099531840845-86814470306791424-2199063805146-10057-A-0-1.flv?wsSecret=5b835c43374ddc3c0d0c783e6d96eee6&wsTime=62cafb97&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="一起看", 堆堆港剧日常
+http://yj1211.work:8089/huya/23903123.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/c4/24439f96e2dd7b5dafe9350cad5745_180_135.jpg?1562505489" group-title="原创", 电影享不停
+http://yj1211.work:8089/huya/16873147.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1083/8b/5793f339dff0a893b225061442a458_180_135.jpg?1463968900" group-title="一起看", 老雷
+http://yj1211.work:8089/huya/11602034.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/10/3c388a46eb8d750ce27de69cd0afbd_180_135.jpg?1612247383" group-title="一起看", 港剧慢品汇
+http://yj1211.work:8089/huya/23865142.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/1e/e99cb7258e104af0c68798b6b2ac83_180_135.jpg?1540527154" group-title="原创", 阿祥说电影
+http://yj1211.work:8089/huya/16868935.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/f8/caf9d8dd40dcc76a8ffec606d476bd_180_135.jpg" group-title="探索", 平野以記之
+http://al.flv.huya.com/src/1099531840886-1099531840886-86814646400450560-2199063805228-10057-A-0-1.flv?wsSecret=f7887c177620c8bf0965cad3131ba06a&wsTime=62cafb98&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/fb/716d9dae8f12f2b142ee18d2e24703_180_135.jpg" group-title="探索", 三長村換
+http://al.flv.huya.com/src/1099531840893-1099531840893-86814676465221632-2199063805242-10057-A-0-1.flv?wsSecret=8e6ce7533c9a7d233918f36a61a8fabf&wsTime=62cafb98&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/70/90dcf84517b4239b242e109d6fa28c_180_135.jpg?0" group-title="一起看", 荒野达人
+http://yj1211.work:8089/huya/11352975.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/15/a6e0b1c53349fd819ab15dd3c7db71_180_135.jpg?1612404715" group-title="一起看", iTVB大后宫
+http://yj1211.work:8089/huya/23863804.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/1b/e658e859484cb9a062f05b1b542393_180_135.jpg?1542873828" group-title="一起看", 四次元先生
+http://yj1211.work:8089/huya/11602071.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/f7/b6b92b858684182e85439d7d0c0326_180_135.jpg" group-title="探索", 祸兮福冷鍋
+http://al.flv.huya.com/src/1099531840897-1099531840897-86814693645090816-2199063805250-10057-A-0-1.flv?wsSecret=e8bd5b86dc98884923237ad1460bcc32&wsTime=62cafb99&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/54/3a6964aa9373164b2ee5b237d72e84_180_135.jpg?1626774425" group-title="原创", 小邓子解说师
+http://yj1211.work:8089/huya/25220145.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/86/0ba082cb0dc036de085486f2c1e247_180_135.jpg" group-title="探索", 詩酒七貴游
+http://al.flv.huya.com/src/1099531840887-1099531840887-86814650695417856-2199063805230-10057-A-0-1.flv?wsSecret=8b0504754b2113854321e11b3b035be5&wsTime=62cafb99&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aj9%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1073/0a/87fd57c47451ff3bc787c7688b0636_180_135.jpg?1447838686" group-title="一起看", No1常在心
+http://yj1211.work:8089/huya/11342402.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/85/fef4985d0e7ca734eeaa3ebb380c7b_180_135.jpg?1606889447" group-title="一起看", TVB官方
+http://yj1211.work:8089/huya/23735126.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/4d/df390d797b3270f4cf136d29b307cb_180_135.jpg?1604504682" group-title="探索", KotohaModeling
+http://al.flv.huya.com/src/1099531752657-1099531752657-86435705730891776-2199063628770-10057-A-0-1.flv?wsSecret=6f918b4305320d4e09f676ee7612f4e9&wsTime=62cafb9a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/4b/bdd1e31b0131deac50db4173915414_180_135.jpg?1543373465" group-title="一起看", 西红柿
+http://yj1211.work:8089/huya/11601979.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/4e/7b3fe3064031c6f6cd4d28342ee8b9_180_135.jpg?1631254961" group-title="原创", 不二说剧
+http://yj1211.work:8089/huya/24401498.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1065/1e/1261519283866330b97e12fb4e7526_180_135.jpg?1449121445" group-title="一起看", 萌新司机
+http://yj1211.work:8089/huya/11352881.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1015/5d/f75ffa78647f2a485d8415ebfd8fbb_180_135.jpg?1571301414" group-title="原创", 电影充电站
+http://yj1211.work:8089/huya/20064385.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1039/15/8fa37019a60515490eaeab2ba329c8_180_135.jpg?1449121515" group-title="一起看", 老司机
+http://yj1211.work:8089/huya/11352946.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/57/7ebdd10a93cd70692b4de935045172_180_135.jpg?1571216740" group-title="原创", 小丽说电影
+http://yj1211.work:8089/huya/20056437.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/e5/cc68debd11090522603f438e04d4ce_180_135.jpg?1657292927" group-title="原创", 楚门聊电影
 http://yj1211.work:8089/huya/16507906.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/13/d1e296180dda55ff7503c586380351_180_135.jpg?1612406399" group-title="一起看", 堆堆港剧日记
+http://yj1211.work:8089/huya/23903130.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/cf/e9390f9d97ae405c5e484ff7656870_180_135.jpg?1570864857" group-title="原创", 西哥来了
+http://yj1211.work:8089/huya/10849208.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1021/38/798015db445aa31accd2fb80a80f10_180_135.jpg?1448967582" group-title="一起看", Wang-我的女人
+http://yj1211.work:8089/huya/11352940.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1018/68/806bec75f38db660adcfdb89883268_180_135.jpg?1463968736" group-title="一起看", 茱麗葉
+http://yj1211.work:8089/huya/11602072.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/6e/c6d097b3063c82bf85ba6617e7efd2_180_135.jpg?1640058199" group-title="原创", 照影刑侦组
+http://yj1211.work:8089/huya/26231819.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/20/39797b6426c4f9d36be314d4042659_180_135.jpg?1646813303" group-title="探索", 微风孝王都
+http://al.flv.huya.com/src/1099531840873-1099531840873-86814590565875712-2199063805202-10057-A-0-1.flv?wsSecret=50565e8df035a520c1c4b47f1e72325a&wsTime=62cafb9b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atzeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1015/d5/989e71c062142fb672efc72e4dedae_180_135.jpg?1627887734" group-title="原创", 胖虎噜噜噜
+http://yj1211.work:8089/huya/25286082.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/d6/4a249e2b1f2f5a1def626faf348d04_180_135.jpg?1624702386" group-title="原创", 不问影探
+http://yj1211.work:8089/huya/25013685.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/4d/795a56e5155126f22eed208b64f4ca_180_135.jpg?1609139981" group-title="一起看", 冷门港片大全
+http://yj1211.work:8089/huya/23903196.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/c6/7d60d428f88e2feae081dd448dc77f_180_135.jpg?1602591213" group-title="一起看", 来瓶肥宅水
+http://yj1211.work:8089/huya/21059555.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/e0/a0c587be606cc16597f8664ffd608c_180_135.jpg?1646813769" group-title="探索", 袖中忽见洮河北
+http://al.flv.huya.com/src/1099531840867-1099531840867-86814564796071936-2199063805190-10057-A-0-1.flv?wsSecret=1e67b33fc342d43762d78ef71766ed28&wsTime=62cafb9c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1019/b1/b11db3aa8c6e1da787550ad63bc98e_180_135.jpg" group-title="探索", 斯須炒成中何寄
+http://al.flv.huya.com/src/1099531840854-1099531840854-86814508961497088-2199063805164-10057-A-0-1.flv?wsSecret=5cdf8f9f65db1c48d99b217a0a5549af&wsTime=62cafb9c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/05/989ebca8d7566c06fb8d56a1ba95fc_180_135.jpg?1621603500" group-title="原创", 柒言绝剧
+http://yj1211.work:8089/huya/24778726.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1085/3c/d850905ce519759fdd06a417bd8200_180_135.jpg" group-title="一起看", 槽老师
+http://yj1211.work:8089/huya/11336571.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/21/b0c9546a51b38cc9e96556b56d3bfe_180_135.jpg" group-title="探索", 赏心樂事鵝儿酒
+http://al.flv.huya.com/src/1099531840895-1099531840895-86814685055156224-2199063805246-10057-A-0-1.flv?wsSecret=c0748a9039c70cf68802be4da7ea5dbc&wsTime=62cafb9c&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ahaeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1035/39/d1fc7aaae54829703b0e21439f6c29_180_135.jpg?1446129806" group-title="一起看", 麋鹿
+http://yj1211.work:8089/huya/11342419.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b4/49b7034f405681ff8e75e3e512c761_180_135.jpg?1555121287" group-title="原创", 圣逗事
+http://yj1211.work:8089/huya/18390254.m3u8
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1077/3d/c3e894c52edd9d1dedb6dd2b6c8407_180_135.jpg" group-title="一起看", 胖次过肩摔
+http://yj1211.work:8089/huya/11352903.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/83/3e09d3cd4b68357dce441a02470c71_180_135.jpg?1588758115" group-title="原创", 短的发布会
+http://yj1211.work:8089/huya/17142127.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/cf/e4b1189af17e03a89653f4bc35d79b_180_135.jpg?1619340109" group-title="原创", 白丁说电影
+http://yj1211.work:8089/huya/24396428.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/23/82447f6ea7096ee968d3edb66865e0_180_135.jpg" group-title="探索", 葱爆牛柳鱂魚
+http://al.flv.huya.com/src/1099531840857-1099531840857-86814521846398976-2199063805170-10057-A-0-1.flv?wsSecret=f853e4fcc1a4f83dbbb132d4fb9253bd&wsTime=62cafb9d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/b9/2c40a25b6628dd55fe8337e3dae3fe_180_135.jpg" group-title="探索", 小翼看人文
+http://al.flv.huya.com/src/1199610313738-1199610313738-5645468884044611584-2399220750932-10057-A-0-1.flv?wsSecret=438e8976d3785accd9139ebb1af15f90&wsTime=62cafb9d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/4a/90e3b6007e7f62cb0bd27252d087d5_180_135.jpg?1634623686" group-title="原创", 港影侦查局
+http://yj1211.work:8089/huya/25863169.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/10/ce08f6768979aa04b4cc890023876e_180_135.jpg?1621493037" group-title="原创", 大本有剧
+http://yj1211.work:8089/huya/24401117.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1047/24/4c3f73e09f06187a065b72e83a0756_180_135.jpg" group-title="探索", 云斑裸頰虾虎鱼锚参科
+http://al.flv.huya.com/src/1099531840847-1099531840847-86814478896726016-2199063805150-10057-A-0-1.flv?wsSecret=98be6ea5b83bc1be4ef7eca5c8135e99&wsTime=62cafb9e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/1e/b8620620e2b1d679439ce5d0b49450_180_135.jpg?1599122729" group-title="原创", 老吴说电影
+http://yj1211.work:8089/huya/16740471.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/19/92609b0ff4382c3d10d4acae2b6557_180_135.jpg?1597218850" group-title="探索", 调查团
+http://al.flv.huya.com/src/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.flv?wsSecret=8c1d09ff839d980c9aca642fb6e2ccb5&wsTime=62cafb9e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1024/bd/95f745fdd9e9cd9136d04ae6eabf58_180_135.jpg?1480069122" group-title="一起看", 雅痞不是帅
+http://yj1211.work:8089/huya/11352953.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/cd/af7073037db0634ae30e2968665751_180_135.jpg" group-title="探索", 對君白蜥蜴
+http://al.flv.huya.com/src/1099531840856-1099531840856-86814517551431680-2199063805168-10057-A-0-1.flv?wsSecret=a002fbcabd6b02a92043e07df27c3aa5&wsTime=62cafb9f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Awx92%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1036/da/e3df81cb4d8219b0360933b6becea2_180_135.jpg?1532568485" group-title="原创", 猎影派
+http://yj1211.work:8089/huya/16099968.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/89/0a0c0ebb64e5c87be18018b2b8135d_180_135.jpg?1539176852" group-title="原创", 沫漾电影
+http://yj1211.work:8089/huya/15556391.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/1c/603c0c7df819696d32b385cc329b61_180_135.jpg?1533094419" group-title="原创", 电影间谍
+http://yj1211.work:8089/huya/16149609.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/d5/322b64149d2cb451922bab6ecbd054_180_135.jpg?1603070361" group-title="原创", 灭绝失态了
+http://yj1211.work:8089/huya/18232669.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/83/c34ff244701d80dfbbaee7e199a6e4_180_135.jpg?1540192522" group-title="原创", 渣子看闹剧
+http://yj1211.work:8089/huya/16837764.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/db/207dc0c101a3a8fa01b3c7edee5f41_180_135.jpg?1530763138" group-title="原创", 花花与三猫CatLive
+http://yj1211.work:8089/huya/15927359.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/ee/20efb83981c3bcfcf15cf755514bdf_180_135.jpg?1646813525" group-title="探索", 春江花朝吹香夢
+http://al.flv.huya.com/src/1099531840870-1099531840870-86814577680973824-2199063805196-10057-A-0-1.flv?wsSecret=66a20fb5768aba64b629eef99ca32e97&wsTime=62cafba1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atyeic11%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1088/f8/1f4f0714d67b353d5f0f81c2cdc91e_180_135.jpg?1583210243" group-title="探索", 一枝独秀
+http://al.flv.huya.com/src/1199531446087-1199531446087-5306734902287269888-2399063015630-10057-A-0-1.flv?wsSecret=80787c0c5b4d5a068efc8945be892135&wsTime=62cafba1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/19/4e18a72225f2135b2725ac94d55926_180_135.jpg" group-title="探索", 同芋螺
+http://al.flv.huya.com/src/1099531840880-1099531840880-86814620630646784-2199063805216-10057-A-0-1.flv?wsSecret=4fd259b8e8fccde96654e597e9a4f757&wsTime=62cafba2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/f3/aabda9850f12967567468e8b41e48a_180_135.jpg?1578388820" group-title="探索", 簪子山黄小仙日常
+http://al.flv.huya.com/src/1199527743800-1199527743800-5290833700701863936-2399055611056-10057-A-0-1.flv?wsSecret=c1556cd5df8fa66a351ac7552c3bbeb9&wsTime=62cafba2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/4f/55d647e98618bcda9d753d65b0da38_180_135.jpg" group-title="探索", 舞困尺蠖
+http://al.flv.huya.com/src/1099531840909-1099531840909-86814745184698368-2199063805274-10057-A-0-1.flv?wsSecret=6b1397c75f8d1ef9d18c40710dc0351a&wsTime=62cafba3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Atzeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/f0/2d5036459592db8a8356a5bb0f0615_180_135.jpg?1554877689" group-title="原创", 小林讲电影
+http://yj1211.work:8089/huya/18368391.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/ce/1cc9627e76f4657fa765f66804efa9_180_135.jpg?1628306543" group-title="原创", 亦寒电影
+http://yj1211.work:8089/huya/25368353.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/31/55e1b74839730ae3ecbba3042a89a1_180_135.jpg?1616072189" group-title="原创", 猫哥影视
+http://yj1211.work:8089/huya/23566617.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/69/9528f157ba911eff27ad4ac92992cd_180_135.jpg?1581053039" group-title="探索", 蜀乡娜娜
+http://al.flv.huya.com/src/1199529532675-1199529532675-5298516860323495936-2399059188806-10057-A-0-1.flv?wsSecret=c4c1262e24d0b8b4e763559edb79a705&wsTime=62cafba4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1036/fb/b6bac50c3c8f0f090358817651737e_180_135.jpg" group-title="探索", 求战砂輪虫江米釀鴨子
+http://al.flv.huya.com/src/1099531840935-1099531840935-86814856853848064-2199063805326-10057-A-0-1.flv?wsSecret=fedff3d76b7a00445d96968180b3d2a3&wsTime=62cafba5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Ayzeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/97/a260fe85771eaf9d2aa35122469271_180_135.jpg?1539243402" group-title="原创", 小冷说电影
+http://yj1211.work:8089/huya/16739452.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/dc/7dd9bed0432c40c69b178ed1ff9f9e_180_135.jpg" group-title="探索", 都護鐵衣也君子
+http://al.flv.huya.com/src/1099531840852-1099531840852-86814500371562496-2199063805160-10057-A-0-1.flv?wsSecret=a79f863d96913bc7e9af2b037b9cc323&wsTime=62cafba5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/73/2219a39fc3dd389212407452f9402d_180_135.jpg?1633525979" group-title="原创", 亿酷影视
+http://yj1211.work:8089/huya/25773579.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/5f/b1390b2265cda3da07e1802bf0bf68_180_135.jpg" group-title="探索", 三十既未息
+http://al.flv.huya.com/src/1099531840923-1099531840923-86814805314240512-2199063805302-10057-A-0-1.flv?wsSecret=b750bf5c24652d7005d7786ec33521e9&wsTime=62cafba6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azjeic1%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/e7/36c89bf66fa106ddfc3736ac97f7d1_180_135.jpg?1624095599" group-title="原创", 电影十里廊
+http://yj1211.work:8089/huya/16801558.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/42/e870ab80aaa7e9281d91b076a36acd_180_135.jpg?1657004138" group-title="探索", 中国探月太空萌兔
+http://al.flv.huya.com/src/1199558100755-1199558100755-5421215829633007616-2399116324966-10057-A-0-1.flv?wsSecret=791d19d0c9de10549ef678b7ed194c9a&wsTime=62cafba6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/5f/a247ac3567b9a166830e92fe4e1ba2_180_135.jpg?1565155269" group-title="原创", 无比看电影精选
+http://yj1211.work:8089/huya/19450129.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/06/eaf126f7079f3f7cce92e0e5272dee_180_135.jpg?1608888906" group-title="探索", 中国大猫频道
+http://al.flv.huya.com/src/1199556591649-1199556591649-5414734268716810240-2399113306754-10057-A-0-1.flv?wsSecret=6e92efb637813a75a02aeae94ad53572&wsTime=62cafba7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103&ratio=2000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/31/e49b2a9c29c0eecaeb044d422e01da_180_135.jpg" group-title="探索", 此人皆怪怒
+http://al.flv.huya.com/src/1099531840858-1099531840858-86814526141366272-2199063805172-10057-A-0-1.flv?wsSecret=b6432adb770ec642649e7cd501d4fe48&wsTime=62cafba8&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&t=103&ratio=2000
