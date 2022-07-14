@@ -1,5 +1,11 @@
 # APTV
+🎉 🎉 APTV正式上架AppStore啦，支持节目回看！
+
+经过两个多月的TF测试，APTV终于上架AppStore啦，国区售价12元，支持iOS、iPadOS、tvOS（已上Testflight）、macOS（已建好文件夹）
+<a href='https://apps.apple.com/cn/app/aptv/id1630403500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141200554.svg' /></a>
+
 ## TG交流群
+
 > [t.me/AptvPlayer](https://t.me/AptvPlayer)
 ## 介绍
 
@@ -8,6 +14,7 @@
 ## 已实现功能
 - 添加远程m3u文件
 - 播放m3u8文件
+- 频道回看（需直播源支持）
 - 实时获取当前频道预览图
 - 获取频道节目单
 - iCloud同步
