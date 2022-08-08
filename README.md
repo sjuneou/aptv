@@ -59,7 +59,7 @@
 > 以下直播源仅用于产品测试使用，禁止传播  
 > 以下直播源均来自于网络，本人只进行收集和整理，不对内容的隐私和版权负责
 
-- IPTV：https://raw.githubusercontents.com/Kimentanm/aptv/master/m3u/iptv.m3u
-- 回放测试源：https://raw.githubusercontents.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
+- IPTV：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+- 回放测试源：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
 
 （该测试源每日更新，若出现个别频道无法播放，请在配置中心中刷新配置）
