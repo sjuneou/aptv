@@ -1,7 +1,7 @@
 # APTV
 🎉 🎉 APTV正式上架AppStore啦，支持节目回看！
 
-经过两个多月的TF测试，APTV终于上架AppStore啦，国区售价12元，支持iOS、iPadOS、tvOS（已上Testflight）、macOS（已建好文件夹）  
+支持iOS、iPadOS、tvOS、macOS（已上Testflight）
 
 <a href='https://apps.apple.com/cn/app/aptv/id1630403500'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 
